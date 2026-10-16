@@ -1,0 +1,24 @@
+# Apresentação online
+- [x] Remover os slides 11–16, 18, 20, 22, 24, 77 e 78 da numeração de 109 slides; inserir “Inverdo da IA” no lugar de 11–16 e conferir sequência e imagem.
+- [x] Extrair os 107 slides, figuras e todos os links, com origem rastreável.
+- [x] Unificar a identidade visual e inserir as duas conexões aprovadas.
+- [x] Implementar navegação, miniaturas, visão geral, tela cheia, gestos e impressão.
+- [x] Verificar conteúdo, imagens, links e navegação em computador e celular.
+- [x] Reordenar para IA → Machine Learning → Apoio à Decisão e atualizar conexões.
+- [x] Revisar os 109 slides e melhorar hierarquia, colunas e proporções sem alterar conteúdos.
+- [x] Auditar cortes, integridade, navegação e apresentação após a revisão.
+- [x] Ler individualmente os 107 originais e definir tópicos, subtópicos e composição por slide.
+- [x] Aplicar o desenho individual sem modificar textos, figuras ou links.
+- [x] Conferir visualmente todos os slides e testar integridade e navegação.
+- [x] Conferir os seis destinos com os originais e oferecer botões externos mais acessíveis; YouTube exige verificação antirrobô no navegador automatizado.
+- [x] Substituir as sete tabelas de algoritmos e utilização por quadros independentes.
+- [x] Remover o antigo slide 80 (slide02-52) e inserir a capa da disciplina.
+- [x] Contextualizar BI na conexão e nos itens de relatórios/painéis, preservando as definições distintas de SAD.
+- [x] Verificar links, quadros sem cortes, capa e sequência; dez testes aprovados e apresentação sem erros.
+- [x] Concluir a conferência de todos os 109 slides após capa, remoção e ajustes de BI: imagens carregadas, sem cortes, 109 páginas de impressão, tela cheia e links no celular conferidos.
+- [x] Importar os oito slides de slide4add.odp e inseri-los antes do Debate, com a composição original das figuras.
+- [x] Criar o slide "Modelos de Fundação" com conceito e diagrama interativo (um modelo por tarefa × modelo de fundação).
+- [x] Ligar o slide do Debate à cena da série 1923, enxugar o slide 28 para só o conteúdo extra e apontar o slide 82 ao Teachable Machine.
+- [x] Trocar a figura única de Links Úteis por seis fontes de dados gratuitas clicáveis, incluindo o portal brasileiro de dados abertos.
+- [x] Inserir o bloco de BI (conceito, pipeline interativo, indicadores e fronteira com SAD) antes da definição de SAD, sem alterar o texto importado.
+- [x] Encerrar a disciplina com a síntese dos três assuntos e o retorno à pergunta que abriu o capítulo de decisão.

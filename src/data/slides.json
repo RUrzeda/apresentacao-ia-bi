@@ -1,0 +1,3340 @@
+[
+  {
+    "id": "slide01-1",
+    "source": "slide01.odp",
+    "original": 1,
+    "section": "Inteligência Artificial",
+    "title": "Bibliografia",
+    "paragraphs": [
+      "NORVIG, Peter; RUSSELL, Stuart J. Inteligência Artificial. São Paulo: Elsevier, 2010."
+    ],
+    "images": [
+      {
+        "x": 23.151,
+        "y": 5.967,
+        "w": 7.163,
+        "h": 9.55,
+        "url": "/__l5e/assets-v1/635a37ac-ada8-4276-8089-0446ee49452c/2f4d480e94db9c89e670.png",
+        "ratio": 0.75
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "NORVIG, Peter; RUSSELL, Stuart J. Inteligência Artificial. São Paulo: Elsevier, 2010.",
+      "Bibliografia"
+    ]
+  },
+  {
+    "id": "slide01-2",
+    "source": "slide01.odp",
+    "original": 2,
+    "section": "Inteligência Artificial",
+    "title": "Conceitos",
+    "paragraphs": [
+      "Inteligência “Natural”",
+      "Conceito amplo e controverso",
+      "O que seria Inteligência para você? "
+    ],
+    "images": [
+      {
+        "x": 24.448,
+        "y": 4.467,
+        "w": 8.506,
+        "h": 5.666,
+        "url": "/__l5e/assets-v1/626164b1-fc49-4a19-a288-7b1d5ed75a89/d3c4bc4fced9da5021fa.png",
+        "ratio": 1.5
+      },
+      {
+        "x": 11.695,
+        "y": 12.166,
+        "w": 7.803,
+        "h": 4.369,
+        "url": "/__l5e/assets-v1/a519571d-17ca-400d-b842-b8b1ea3b67ab/d31210628613cd0fc600.png",
+        "ratio": 1.7818181818181817
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Inteligência “Natural”",
+      "Conceito amplo e controverso",
+      "O que seria Inteligência para você? ",
+      "Conceitos"
+    ]
+  },
+  {
+    "id": "slide01-3",
+    "source": "slide01.odp",
+    "original": 3,
+    "section": "Inteligência Artificial",
+    "title": "Conceitos",
+    "paragraphs": [
+      "Habilidades de um indivíduo inteligente",
+      "Se comunicar",
+      "Memorizar",
+      "Ter emoções e sentimentos",
+      "Planejar",
+      "Resolver problemas",
+      "Compreender e Aprender"
+    ],
+    "images": [
+      {
+        "x": 22.992,
+        "y": 6.906,
+        "w": 9.379,
+        "h": 9.524,
+        "url": "/__l5e/assets-v1/d3a7fb8d-ba99-43c6-b346-4ecb36bc830a/3cb910fa88f421017aa2.png",
+        "ratio": 0.9832869080779945
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Habilidades de um indivíduo inteligente",
+      "Se comunicar",
+      "Memorizar",
+      "Ter emoções e sentimentos",
+      "Planejar",
+      "Resolver problemas",
+      "Compreender e Aprender",
+      "Conceitos"
+    ]
+  },
+  {
+    "id": "slide01-4",
+    "source": "slide01.odp",
+    "original": 4,
+    "section": "Inteligência Artificial",
+    "title": "Conceitos",
+    "paragraphs": [
+      "Cérebro humano",
+      "Um dos elementos mais complexos do universo",
+      "Cerca de 100 bilhões de células nervosas e 100 trilhões de conexões (Sinapses)",
+      "Estima-se que a capacidade de armazenamento do cérebro humano seja de 2.5 Petabytes "
+    ],
+    "images": [
+      {
+        "x": 24.567,
+        "y": 1.521,
+        "w": 7.698,
+        "h": 4.576,
+        "url": "/__l5e/assets-v1/f04340d6-17d4-4e65-9cee-478bf80bd680/95547b21bf4d6b7cb0f9.png",
+        "ratio": 1.6820809248554913
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Cérebro humano",
+      "Um dos elementos mais complexos do universo",
+      "Cerca de 100 bilhões de células nervosas e 100 trilhões de conexões (Sinapses)",
+      "Estima-se que a capacidade de armazenamento do cérebro humano seja de 2.5 Petabytes ",
+      "Conceitos"
+    ]
+  },
+  {
+    "id": "slide01-5",
+    "source": "slide01.odp",
+    "original": 5,
+    "section": "Inteligência Artificial",
+    "title": "Conceitos",
+    "paragraphs": [
+      "Inteligência Artificial",
+      "Forma de inteligência que não é produzida naturalmente (produzida pelos humanos) ",
+      "Capacidade máquinas ou softwares exibirem inteligência "
+    ],
+    "images": [
+      {
+        "x": 23.085,
+        "y": 1.072,
+        "w": 8.069,
+        "h": 4.365,
+        "url": "/__l5e/assets-v1/64d359f6-7681-4913-9815-2a1f88ee788f/b343598235c0a9d6bde4.png",
+        "ratio": 1.8484848484848484
+      },
+      {
+        "x": 23.495,
+        "y": 12.383,
+        "w": 8.827,
+        "h": 5.158,
+        "url": "/__l5e/assets-v1/10d8d987-ba11-4daa-a33c-bf4fe37893c0/1fcec3a4de1ad9c32c4c.png",
+        "ratio": 1.506787330316742
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Inteligência Artificial",
+      "Forma de inteligência que não é produzida naturalmente (produzida pelos humanos) ",
+      "Capacidade máquinas ou softwares exibirem inteligência ",
+      "Conceitos"
+    ]
+  },
+  {
+    "id": "slide01-6",
+    "source": "slide01.odp",
+    "original": 6,
+    "section": "Inteligência Artificial",
+    "title": "Conceitos",
+    "paragraphs": [
+      "Quando um sistema pode ser considerado Inteligente? ",
+      "IA fraca vs IA forte (John Searle)",
+      " IA fraca - os sistemas apenas simulam o",
+      " comportamento humano para que foram programadas.",
+      "IA forte - os sistemas podem realmente pensar e adquirir conhecimento como os humanos."
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=rHKwIYsPXLg",
+        "label": "John Searle"
+      }
+    ],
+    "sourceText": [
+      "Quando um sistema pode ser considerado Inteligente? ",
+      "IA fraca vs IA forte (John Searle)",
+      " IA fraca - os sistemas apenas simulam o",
+      " comportamento humano para que foram programadas.",
+      "IA forte - os sistemas podem realmente pensar e adquirir conhecimento como os humanos.",
+      "Conceitos"
+    ]
+  },
+  {
+    "id": "slide01-7",
+    "source": "slide01.odp",
+    "original": 7,
+    "section": "Inteligência Artificial",
+    "title": "",
+    "paragraphs": [
+      "IA FORTE",
+      "IA FRACA"
+    ],
+    "images": [
+      {
+        "x": 15.558,
+        "y": 0.926,
+        "w": 17.429,
+        "h": 12.845,
+        "url": "/__l5e/assets-v1/0a26cccf-e3e6-431e-8aee-1d915b86d32a/f930b9155492e35f5c0d.png",
+        "ratio": 1.498861047835991
+      },
+      {
+        "x": 0.423,
+        "y": 3.638,
+        "w": 14.71,
+        "h": 8.109,
+        "url": "/__l5e/assets-v1/597b66ea-e620-4067-9fa9-01ec0b094655/8dfb79c2c22fb991e23c.png",
+        "ratio": 2.0902255639097747
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "IA FORTE",
+      "IA FRACA"
+    ]
+  },
+  {
+    "id": "slide01-8",
+    "source": "slide01.odp",
+    "original": 8,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Década de 1950",
+      "John McCarthy",
+      "Pai da Inteligência Artificial (criou o termo)",
+      "LISP - Linguagem formal matemática projetada para o processamento de dados simbólicos."
+    ],
+    "images": [
+      {
+        "x": 26.212,
+        "y": 5.054,
+        "w": 7.243,
+        "h": 10.027,
+        "url": "/__l5e/assets-v1/484bca87-ffb5-4eef-894f-15872ac45d3c/4d2bf27d5028c8a3cc91.png",
+        "ratio": 0.7229551451187335
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Década de 1950",
+      "John McCarthy",
+      "Pai da Inteligência Artificial (criou o termo)",
+      "LISP - Linguagem formal matemática projetada para o processamento de dados simbólicos.",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-9",
+    "source": "slide01.odp",
+    "original": 9,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Década de 1950",
+      "Alan Turing",
+      "Pai da Computação",
+      "Teste de Turing"
+    ],
+    "images": [
+      {
+        "x": 22.317,
+        "y": 1.733,
+        "w": 5.617,
+        "h": 7.46,
+        "url": "/__l5e/assets-v1/e5e0a12b-0492-4800-8a41-a22b8c4756c8/d3396544b36d86b5eb78.png",
+        "ratio": 0.7544483985765125
+      },
+      {
+        "x": 17.595,
+        "y": 9.525,
+        "w": 13.29,
+        "h": 7.675,
+        "url": "/__l5e/assets-v1/952676cd-d473-4bf8-8ab4-651e1be63b2a/7c4f4defffe522dd21cb.png",
+        "ratio": 1.0101010101010102
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Década de 1950",
+      "Alan Turing",
+      "Pai da Computação",
+      "Teste de Turing",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-10",
+    "source": "slide01.odp",
+    "original": 10,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Unimate criado em 1961",
+      "Primeiro robô a trabalhar na indústria"
+    ],
+    "images": [
+      {
+        "x": 22.939,
+        "y": 4.798,
+        "w": 9.669,
+        "h": 7.504,
+        "url": "/__l5e/assets-v1/c23e56bb-7fdb-4c61-bb4f-0c08ca0c6cc1/d2f0d2ced468ed18aab5.png",
+        "ratio": 1.5020576131687242
+      },
+      {
+        "x": 15.093,
+        "y": 10.795,
+        "w": 4.597,
+        "h": 6.137,
+        "url": "/__l5e/assets-v1/76190403-8f2c-4ba9-b596-2aab709078fc/5c56be9f6c0d3db6114b.png",
+        "ratio": 0.75
+      },
+      {
+        "x": 5.732,
+        "y": 10.954,
+        "w": 5.899,
+        "h": 5.979,
+        "url": "/__l5e/assets-v1/66e1756c-259e-4aac-9d44-97de0e9136ff/a2ae65e7d7849f3f56ea.png",
+        "ratio": 0.9867256637168141
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Unimate criado em 1961",
+      "Primeiro robô a trabalhar na indústria",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-11",
+    "source": "slide01.odp",
+    "original": 11,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Eliza criada em 1964",
+      "Primeiro chatbot"
+    ],
+    "images": [
+      {
+        "x": 21.35,
+        "y": 2.805,
+        "w": 11.58,
+        "h": 7.725,
+        "url": "/__l5e/assets-v1/22e2ed7a-5992-441c-8cd5-94af79e369f5/2fce4db5dedb1d3c0cda.png",
+        "ratio": 1.4965753424657535
+      },
+      {
+        "x": 5.583,
+        "y": 8.89,
+        "w": 13.056,
+        "h": 8.466,
+        "url": "/__l5e/assets-v1/cf0f953c-6575-4f68-a9bf-d3dfa105e827/1b2cf7dd01feb8e64628.png",
+        "ratio": 1.540625
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Eliza criada em 1964",
+      "Primeiro chatbot",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-12",
+    "source": "slide01.odp",
+    "original": 12,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Freddy criada em 1972",
+      "Primeiro robô Programável",
+      "Podia ver e manipular objetos "
+    ],
+    "images": [
+      {
+        "x": 24.902,
+        "y": 5.215,
+        "w": 6.951,
+        "h": 6.618,
+        "url": "/__l5e/assets-v1/605ec4ed-d27d-4340-a47b-38c441898704/61d00e83f3e05f290988.png",
+        "ratio": 1.0502283105022832
+      },
+      {
+        "x": 6.394,
+        "y": 10.958,
+        "w": 14.71,
+        "h": 6.129,
+        "url": "/__l5e/assets-v1/7a89d0ad-218d-41eb-b951-1311606ad53f/90f7dddd49d17a076f44.png",
+        "ratio": 2.4
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Freddy criada em 1972",
+      "Primeiro robô Programável",
+      "Podia ver e manipular objetos ",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-13",
+    "source": "slide01.odp",
+    "original": 13,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Shakey criado em 1972",
+      "Primeiro robô controlado por IA",
+      "Mobilidade, fala e certa autonomia de ação.",
+      "Considerado capaz de raciocinar sobre suas próprias ações"
+    ],
+    "images": [
+      {
+        "x": 26.008,
+        "y": 2.924,
+        "w": 6.349,
+        "h": 7.782,
+        "url": "/__l5e/assets-v1/d933e4eb-d9bb-4483-8571-e6a42eb51b56/eac4f1952f092c3a1221.png",
+        "ratio": 0.8163265306122449
+      },
+      {
+        "x": 26.008,
+        "y": 12.109,
+        "w": 6.349,
+        "h": 4.762,
+        "url": "/__l5e/assets-v1/07038d96-a5f4-4ee5-a13c-6718a32f9a9e/b6576ae967f75e0560bd.png",
+        "ratio": 1.3333333333333333
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Shakey criado em 1972",
+      "Primeiro robô controlado por IA",
+      "Mobilidade, fala e certa autonomia de ação.",
+      "Considerado capaz de raciocinar sobre suas próprias ações",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-14",
+    "source": "slide01.odp",
+    "original": 14,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Alvinn criado em 1989",
+      "Primeiro veículo autônomo ",
+      "Autonomous Land Vehicle In a Neural Network"
+    ],
+    "images": [
+      {
+        "x": 23.733,
+        "y": 2.659,
+        "w": 8.379,
+        "h": 6.468,
+        "url": "/__l5e/assets-v1/5f841ab6-6acc-457d-b588-53cc6d75d98c/3eff5276eb5269e67254.png",
+        "ratio": 1.2950819672131149
+      },
+      {
+        "x": 10.451,
+        "y": 11.033,
+        "w": 14.207,
+        "h": 6.323,
+        "url": "/__l5e/assets-v1/97c346c4-72d8-48d1-b8f4-7cb05ea227e0/87aa5670c9bd3ae19de3.png",
+        "ratio": 1.5389610389610389
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Alvinn criado em 1989",
+      "Primeiro veículo autônomo ",
+      "Autonomous Land Vehicle In a Neural Network",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-15",
+    "source": "slide01.odp",
+    "original": 15,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Sojourner enviado para marte em 1997",
+      "Veículo Autônomo",
+      "Capaz de se mover entre rochas "
+    ],
+    "images": [
+      {
+        "x": 25.48,
+        "y": 4.071,
+        "w": 6.19,
+        "h": 5.688,
+        "url": "/__l5e/assets-v1/2f829852-2c6c-47d3-860b-cea1f8159b80/e0ced47536c96cc89392.png",
+        "ratio": 1.0883720930232559
+      },
+      {
+        "x": 6.134,
+        "y": 11.558,
+        "w": 7.778,
+        "h": 5.203,
+        "url": "/__l5e/assets-v1/b75aab38-47f6-4dc9-b82f-f4910a39dcf4/4a1cbf3d2e214110e1e3.png",
+        "ratio": 1.4948979591836735
+      },
+      {
+        "x": 21.987,
+        "y": 11.876,
+        "w": 6.852,
+        "h": 5.132,
+        "url": "/__l5e/assets-v1/90e1eb86-7d0e-4001-a849-6a068629c7d9/5696142587034e41c188.png",
+        "ratio": 1.3350515463917525
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Sojourner enviado para marte em 1997",
+      "Veículo Autônomo",
+      "Capaz de se mover entre rochas ",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-16",
+    "source": "slide01.odp",
+    "original": 16,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Deep Blue da IBM em 1997",
+      "IA especializada em xadrez",
+      "Venceu o Campeão Garry Kasparov"
+    ],
+    "images": [
+      {
+        "x": 25.85,
+        "y": 0.225,
+        "w": 7.778,
+        "h": 11.686,
+        "url": "/__l5e/assets-v1/53ca04ed-a820-4d5d-ba0b-32c44229ef5f/746b5e70e00ff3cb55d2.png",
+        "ratio": 0.6666666666666666
+      },
+      {
+        "x": 12.594,
+        "y": 9.869,
+        "w": 5.157,
+        "h": 7.519,
+        "url": "/__l5e/assets-v1/8d9e9126-ad1a-4603-bd22-fafab98a1803/c2a458b06b1cb2c47e19.png",
+        "ratio": 0.6866197183098591
+      },
+      {
+        "x": 3.678,
+        "y": 12.203,
+        "w": 7.778,
+        "h": 5.185,
+        "url": "/__l5e/assets-v1/b1c111b8-a60e-4940-95b7-91785b380a16/a0ed7a9dd0662647d61a.png",
+        "ratio": 1.5025641025641026
+      },
+      {
+        "x": 19.421,
+        "y": 12.618,
+        "w": 7.778,
+        "h": 4.355,
+        "url": "/__l5e/assets-v1/9bb9ff09-a925-42e2-bc7b-5a58b72c6c8c/aeac8901029560039c99.png",
+        "ratio": 1.7865853658536586
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Deep Blue da IBM em 1997",
+      "IA especializada em xadrez",
+      "Venceu o Campeão Garry Kasparov",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-17",
+    "source": "slide01.odp",
+    "original": 17,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Asimo -  Robô Humanoide em 2000",
+      "Imita ações do ser humano",
+      "desenvolvido para auxiliar pessoas com dificuldade de locomoção"
+    ],
+    "images": [
+      {
+        "x": 24.077,
+        "y": 2.372,
+        "w": 7.778,
+        "h": 7.778,
+        "url": "/__l5e/assets-v1/76dd9cf1-3d34-4480-a74d-f6e0d536a528/34e01aa9dc7c9327828f.png",
+        "ratio": 1.0
+      },
+      {
+        "x": 15.161,
+        "y": 12.109,
+        "w": 7.778,
+        "h": 4.355,
+        "url": "/__l5e/assets-v1/4c5ca079-552b-40f2-a66a-bfdbe244e633/1bbac4beb40b59e65717.png",
+        "ratio": 1.7865853658536586
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Asimo -  Robô Humanoide em 2000",
+      "Imita ações do ser humano",
+      "desenvolvido para auxiliar pessoas com dificuldade de locomoção",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-18",
+    "source": "slide01.odp",
+    "original": 18,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Siri em 2011",
+      "primeira assistente virtual",
+      "Processamento de Linguagem Natural (PLN)"
+    ],
+    "images": [
+      {
+        "x": 23.279,
+        "y": 5.265,
+        "w": 10.065,
+        "h": 5.661,
+        "url": "/__l5e/assets-v1/7f1beb48-3cb3-41d3-8169-9949c9b835b1/24ebabefb8b7b5f27646.png",
+        "ratio": 1.7757009345794392
+      },
+      {
+        "x": 8.531,
+        "y": 10.927,
+        "w": 11.469,
+        "h": 6.455,
+        "url": "/__l5e/assets-v1/2a192ec0-ce67-4fa2-8bb6-aad657384970/167cebc661ddab6f1e10.png",
+        "ratio": 1.7745901639344261
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Siri em 2011",
+      "primeira assistente virtual",
+      "Processamento de Linguagem Natural (PLN)",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-19",
+    "source": "slide01.odp",
+    "original": 19,
+    "section": "Inteligência Artificial",
+    "title": "Histórico",
+    "paragraphs": [
+      "Watson da IBM em 2011",
+      "Produto da IBM",
+      "Utiliza PLN"
+    ],
+    "images": [
+      {
+        "x": 24.289,
+        "y": 5.181,
+        "w": 9.312,
+        "h": 5.236,
+        "url": "/__l5e/assets-v1/2ec85b77-4ab8-4158-bdf2-a3a1162a82c1/817cbc31fbec70a6dd10.png",
+        "ratio": 1.7777777777777777
+      },
+      {
+        "x": 3.291,
+        "y": 11.383,
+        "w": 10.074,
+        "h": 5.666,
+        "url": "/__l5e/assets-v1/6f31273a-556c-4345-b94e-8652975ddff4/252c2b20ede9e840c809.png",
+        "ratio": 1.7757009345794392
+      },
+      {
+        "x": 16.933,
+        "y": 12.06,
+        "w": 6.772,
+        "h": 5.211,
+        "url": "/__l5e/assets-v1/cb0b07bc-b248-4fb6-b729-f4dbc31919cd/46d1a11c502ddcd97ed6.png",
+        "ratio": 1.299492385786802
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=YgYSv2KSyWg",
+        "label": "Watson da IBM em 2011"
+      }
+    ],
+    "sourceText": [
+      "Watson da IBM em 2011",
+      "Produto da IBM",
+      "Utiliza PLN",
+      "Histórico"
+    ]
+  },
+  {
+    "id": "slide01-20",
+    "source": "slide01.odp",
+    "original": 20,
+    "section": "Inteligência Artificial",
+    "title": "Teste de Turing",
+    "paragraphs": [
+      "Uma IA pode se passar por um humano?",
+      "Se uma pessoa confunde uma IA com um ser humano, quer dizer que essa IA é capaz de pensar? "
+    ],
+    "images": [
+      {
+        "x": 24.554,
+        "y": 4.071,
+        "w": 6.614,
+        "h": 8.466,
+        "url": "/__l5e/assets-v1/cd60015f-6110-4f26-a391-cad83a6d2a5b/aaeb706d14976ab89593.png",
+        "ratio": 0.78125
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Uma IA pode se passar por um humano?",
+      "Se uma pessoa confunde uma IA com um ser humano, quer dizer que essa IA é capaz de pensar? ",
+      "Teste de Turing"
+    ]
+  },
+  {
+    "id": "slide01-21",
+    "source": "slide01.odp",
+    "original": 21,
+    "section": "Inteligência Artificial",
+    "title": "",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 33.866,
+        "h": 19.049,
+        "url": "/__l5e/assets-v1/d9e98cde-bb33-4cbf-9f7e-48cd16b657a2/6d75f7a4fdb70fa57c8c.jpg",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [],
+    "sourceText": []
+  },
+  {
+    "id": "slide01-22",
+    "source": "slide01.odp",
+    "original": 22,
+    "section": "Inteligência Artificial",
+    "title": "Problema do Quarto Chinês",
+    "paragraphs": [
+      "Criado pelo filósofo John Searle",
+      "As máquinas realmente serão capazes de pensar, ou sempre irão apenas interpretar instruções? "
+    ],
+    "images": [
+      {
+        "x": 21.749,
+        "y": 10.548,
+        "w": 11.259,
+        "h": 6.093,
+        "url": "/__l5e/assets-v1/d2659159-ae72-4eca-ab30-f729ca2459ea/92898089818563097b5e.png",
+        "ratio": 1.8478260869565217
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Criado pelo filósofo John Searle",
+      "As máquinas realmente serão capazes de pensar, ou sempre irão apenas interpretar instruções? ",
+      "Problema do Quarto Chinês"
+    ]
+  },
+  {
+    "id": "slide01-23",
+    "source": "slide01.odp",
+    "original": 23,
+    "section": "Inteligência Artificial",
+    "title": "",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 33.866,
+        "h": 19.049,
+        "url": "/__l5e/assets-v1/c978c0f4-8fcc-4925-a9da-c5684560bad8/f8411bdcf8f346d840ce.jpg",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [],
+    "sourceText": []
+  },
+  {
+    "id": "slide01-24",
+    "source": "slide01.odp",
+    "original": 24,
+    "section": "Inteligência Artificial",
+    "title": "Aplicações",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 7.726,
+        "y": 2.924,
+        "w": 17.726,
+        "h": 14.512,
+        "url": "/__l5e/assets-v1/57bd59fd-4680-4b60-b686-51ae2f3269ac/f99ce91adb598be69883.png",
+        "ratio": 1.2214912280701755
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aplicações"
+    ]
+  },
+  {
+    "id": "slide01-25",
+    "source": "slide01.odp",
+    "original": 25,
+    "section": "Inteligência Artificial",
+    "title": "Sistemas Especialistas",
+    "paragraphs": [
+      "Apoio a tomada de decisões",
+      "Com foco em determinado problema específico",
+      "Assistente"
+    ],
+    "images": [
+      {
+        "x": 23.034,
+        "y": 2.372,
+        "w": 7.705,
+        "h": 7.791,
+        "url": "/__l5e/assets-v1/6c891b12-8999-4f8a-b58a-5859532543c2/aba3ab2347b9e746a2d6.png",
+        "ratio": 0.9897959183673469
+      },
+      {
+        "x": 16.933,
+        "y": 10.213,
+        "w": 15.689,
+        "h": 7.01,
+        "url": "/__l5e/assets-v1/343589a0-4d39-4a1b-8af0-831a1240d7c0/ad837364a8046aa76c08.jpg",
+        "ratio": 2.3254901960784315
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Apoio a tomada de decisões",
+      "Com foco em determinado problema específico",
+      "Assistente",
+      "Sistemas Especialistas"
+    ]
+  },
+  {
+    "id": "slide01-26",
+    "source": "slide01.odp",
+    "original": 26,
+    "section": "Inteligência Artificial",
+    "title": "Debate",
+    "paragraphs": [
+      "Mudanças Sociais e Riscos para a Humanidade",
+      "IA atualmente",
+      "Singularidade? "
+    ],
+    "images": [
+      {
+        "x": 21.2,
+        "y": 0.159,
+        "w": 12.419,
+        "h": 17.594,
+        "url": "/__l5e/assets-v1/9f7bda1d-75e1-4640-bb94-ab416d76b483/91c9881aba5461ea111c.jpg",
+        "ratio": 0.5617469879518072
+      },
+      {
+        "x": 14.023,
+        "y": 10.145,
+        "w": 5.82,
+        "h": 7.275,
+        "url": "/__l5e/assets-v1/f1f51eef-e738-435e-8ac9-4cd9c8fc3a23/7e0c7a8a148863932aad.png",
+        "ratio": 0.8
+      },
+      {
+        "x": 2.385,
+        "y": 10.683,
+        "w": 9.556,
+        "h": 6.627,
+        "url": "/__l5e/assets-v1/c77e1d17-6571-469d-b679-5f6e27e7b562/e2d666214b4a72345285.png",
+        "ratio": 1.444
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Mudanças Sociais e Riscos para a Humanidade",
+      "IA atualmente",
+      "Singularidade? ",
+      "Debate"
+    ]
+  },
+  {
+    "id": "slide01-27",
+    "source": "slide01.odp",
+    "original": 27,
+    "section": "Inteligência Artificial",
+    "title": "Conteúdo Extra e Atividade",
+    "paragraphs": [
+      "Escolher um produto de entretenimento que fale sobre IA",
+      "Criar um mapa mental sobre as ideias e conceitos",
+      "Será debatido no início da próxima aula"
+    ],
+    "images": [
+      {
+        "x": 6.005,
+        "y": 3.131,
+        "w": 4.828,
+        "h": 6.957,
+        "url": "/__l5e/assets-v1/68c571cf-2afc-4603-b2c6-8834edab6a57/8fa748478c34a285843b.png",
+        "ratio": 0.7022900763358778
+      },
+      {
+        "x": 11.542,
+        "y": 3.131,
+        "w": 4.89,
+        "h": 6.957,
+        "url": "/__l5e/assets-v1/27e98865-7641-4b4a-8669-b8b4aebe59a5/90755cc3ab0e1f553789.png",
+        "ratio": 0.7022900763358778
+      },
+      {
+        "x": 0.821,
+        "y": 3.148,
+        "w": 4.828,
+        "h": 7.148,
+        "url": "/__l5e/assets-v1/275c124a-e97f-4f40-94de-0db167daa8e1/00eb3db5d86dd20d0844.png",
+        "ratio": 0.674074074074074
+      },
+      {
+        "x": 6.005,
+        "y": 10.442,
+        "w": 4.828,
+        "h": 6.957,
+        "url": "/__l5e/assets-v1/be49cf6e-f9a6-471b-a5a2-c71cd8a02d3c/413a024a44a43a1b461b.png",
+        "ratio": 0.6946564885496184
+      },
+      {
+        "x": 11.378,
+        "y": 10.443,
+        "w": 5.218,
+        "h": 6.957,
+        "url": "/__l5e/assets-v1/6337cc8d-206a-4fff-9d64-15a39f43081f/c0368ffa428ad1fa010b.png",
+        "ratio": 0.7480916030534351
+      },
+      {
+        "x": 0.821,
+        "y": 10.456,
+        "w": 4.828,
+        "h": 7.137,
+        "url": "/__l5e/assets-v1/4a5ce6bd-49ec-4ef2-830d-bc285f923363/3cac2e920ddca5460087.png",
+        "ratio": 0.6765799256505576
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Conteúdo Extra e Atividade",
+      "Escolher um produto de entretenimento que fale sobre IA",
+      "Criar um mapa mental sobre as ideias e conceitos",
+      "Será debatido no início da próxima aula"
+    ]
+  },
+  {
+    "id": "conexao-ia-sad",
+    "section": "Conexão",
+    "title": "Da inteligência artificial ao apoio à decisão",
+    "paragraphs": [
+      "Como os conceitos e aplicações apresentados se conectam às decisões?"
+    ],
+    "images": [],
+    "links": [],
+    "transition": true,
+    "sourceText": []
+  },
+  {
+    "id": "slides03-1",
+    "source": "slides03.pdf",
+    "original": 1,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Pensem na rotina de vocês...",
+    "paragraphs": [
+      "Como você decidiu o melhor caminho para chegar aqui hoje?",
+      "Você ligou para um amigo? Usou um mapa de",
+      "papel? Ou..."
+    ],
+    "images": [
+      {
+        "x": 555.0,
+        "y": 157.5,
+        "w": 300.0,
+        "h": 225.0,
+        "url": "/__l5e/assets-v1/48e0d41c-a24d-4cf6-8810-2df2f3b420ad/ea0d368e186147cc7bc7.png",
+        "ratio": 1.333673469387755
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Pensem na rotina de vocês...",
+      "Como você decidiu o melhor caminho para chegar aqui hoje?",
+      "Você ligou para um amigo? Usou um mapa de",
+      "papel? Ou..."
+    ]
+  },
+  {
+    "id": "slides03-2",
+    "source": "slides03.pdf",
+    "original": 2,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "...ou você usou algo assim?",
+    "paragraphs": [
+      "Provavelmente, você confiou em um sistema que analisou centenas de variáveis em tempo real.",
+      "Um sistema que processou dados de:",
+      "Posição de milhares de motoristas",
+      "Acidentes e obras na via",
+      "Condições de trânsito"
+    ],
+    "images": [
+      {
+        "x": 555.0,
+        "y": 93.0,
+        "w": 300.0,
+        "h": 375.0,
+        "url": "/__l5e/assets-v1/250bb3b8-57e8-4373-9f85-fafe03b8f53d/b423f7caf032089d7cd2.png",
+        "ratio": 0.8
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "...ou você usou algo assim?",
+      "Provavelmente, você confiou em um sistema que analisou centenas de variáveis em tempo real.",
+      "Um sistema que processou dados de:",
+      "Posição de milhares de motoristas",
+      "Acidentes e obras na via",
+      "Condições de trânsito"
+    ]
+  },
+  {
+    "id": "slides03-3",
+    "source": "slides03.pdf",
+    "original": 3,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O Waze é um Sistema de Apoio à Decisão perfeito!",
+    "paragraphs": [
+      "1 Coleta Dados: Posição de milhares de motoristas, acidentes, obras.",
+      "2 Usa um Modelo: Um algoritmo que calcula a rota mais rápida.",
+      "3 Tem uma Interface Clara: O mapa no seu celular.",
+      "Ele te APOIA na DECISÃO de qual caminho",
+      "seguir."
+    ],
+    "images": [
+      {
+        "x": 538.5,
+        "y": 216.75,
+        "w": 337.5,
+        "h": 183.75,
+        "url": "/__l5e/assets-v1/092d66d0-fbb6-4b3b-b96e-df494b53c146/25edb917b2bf2031052c.png",
+        "ratio": 1.8352941176470587
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O Waze é um Sistema de Apoio à Decisão perfeito!",
+      "1 Coleta Dados: Posição de milhares de motoristas, acidentes, obras.",
+      "2 Usa um Modelo: Um algoritmo que calcula a rota mais rápida.",
+      "3 Tem uma Interface Clara: O mapa no seu celular.",
+      "Ele te APOIA na DECISÃO de qual caminho",
+      "seguir."
+    ]
+  },
+  {
+    "id": "slides03-4",
+    "source": "slides03.pdf",
+    "original": 4,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Nosso Objetivo",
+    "paragraphs": [
+      "Aprender a construir o \"Waze\" para os Negócios",
+      "Um sistema que ajude uma empresa a navegar no \"trânsito\" do mercado, evitando",
+      "\"congestionamentos\" (problemas) e pegando \"atalhos\" (oportunidades)."
+    ],
+    "images": [
+      {
+        "x": 217.5,
+        "y": 308.25,
+        "w": 525.0,
+        "h": 262.5,
+        "url": "/__l5e/assets-v1/7a5c7285-10b4-4ebb-b41b-356694a6e716/f87e841f5a2e44f90d0b.png",
+        "ratio": 2.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Nosso Objetivo",
+      "Aprender a construir o \"Waze\" para os Negócios",
+      "Um sistema que ajude uma empresa a navegar no \"trânsito\" do mercado, evitando",
+      "\"congestionamentos\" (problemas) e pegando \"atalhos\" (oportunidades)."
+    ]
+  },
+  {
+    "id": "slides03-5",
+    "source": "slides03.pdf",
+    "original": 5,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O que é, afinal, uma decisão?",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 336.0,
+        "y": 51.0,
+        "w": 288.0,
+        "h": 288.0,
+        "url": "/__l5e/assets-v1/9a0f2f58-63b4-406b-8040-e81f93cdbc73/35648a53126be717c195.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O que é, afinal, uma decisão?"
+    ]
+  },
+  {
+    "id": "slides03-6",
+    "source": "slides03.pdf",
+    "original": 6,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Decidir é...",
+    "paragraphs": [
+      "...um processo de escolha entre duas ou mais alternativas para alcançar um objetivo desejado.",
+      "Exemplo Simples:",
+      "Objetivo: Almoçar.",
+      "Alternativas: Restaurante A, Restaurante B,",
+      "trazer marmita.",
+      "Decisão: Escolher uma das três opções."
+    ],
+    "images": [
+      {
+        "x": 538.5,
+        "y": 177.0,
+        "w": 337.5,
+        "h": 262.5,
+        "url": "/__l5e/assets-v1/f2d13890-e2ce-41ca-81f2-d999087eb2a0/2ea1b4a88513e57b61f2.png",
+        "ratio": 1.288888888888889
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Decidir é...",
+      "...um processo de escolha entre duas ou mais alternativas para alcançar um objetivo desejado.",
+      "Exemplo Simples:",
+      "Objetivo: Almoçar.",
+      "Alternativas: Restaurante A, Restaurante B,",
+      "trazer marmita.",
+      "Decisão: Escolher uma das três opções."
+    ]
+  },
+  {
+    "id": "slides03-7",
+    "source": "slides03.pdf",
+    "original": 7,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "A Pirâmide de Decisões Organizacionais",
+    "paragraphs": [
+      "Assim como em um jogo, existem decisões que definem a estratégia geral e outras que definem a jogada do momento.",
+      "",
+      "Estratégico",
+      "Longo prazo, alta incerteza, alta gestão",
+      "",
+      "Tático",
+      "Médio prazo, alocação de recursos, gerentes",
+      "",
+      "Operacional",
+      "Curto prazo, repetitivas, supervisores"
+    ],
+    "images": [
+      {
+        "x": 519.75,
+        "y": 208.5,
+        "w": 375.0,
+        "h": 210.75,
+        "url": "/__l5e/assets-v1/18c1115d-b51d-41fc-8670-1ef1b3eec535/74d7ddf65c3fb5afe1ae.png",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "A Pirâmide de Decisões Organizacionais",
+      "Assim como em um jogo, existem decisões que definem a estratégia geral e outras que definem a jogada do momento.",
+      "",
+      "Estratégico",
+      "Longo prazo, alta incerteza, alta gestão",
+      "",
+      "Tático",
+      "Médio prazo, alocação de recursos, gerentes",
+      "",
+      "Operacional",
+      "Curto prazo, repetitivas, supervisores"
+    ]
+  },
+  {
+    "id": "slides03-8",
+    "source": "slides03.pdf",
+    "original": 8,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Estratégicas: Decidindo o Destino do Navio",
+    "paragraphs": [
+      "Características",
+      "Longo prazo, alta incerteza, definem o rumo da empresa.",
+      "Quem toma",
+      "Alta gestão (CEOs, diretores).",
+      " \"O que NÓS DEVERÍAMOS estar fazendo?\"",
+      ""
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 120.0,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/1dbd3750-1d34-44ce-99bd-82ff9fd3b179/c4a7d54caade305e26a2.png",
+        "ratio": 1.2513888888888889
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Estratégicas: Decidindo o Destino do Navio",
+      "Características",
+      "Longo prazo, alta incerteza, definem o rumo da empresa.",
+      "Quem toma",
+      "Alta gestão (CEOs, diretores).",
+      " \"O que NÓS DEVERÍAMOS estar fazendo?\"",
+      ""
+    ]
+  },
+  {
+    "id": "slides03-9",
+    "source": "slides03.pdf",
+    "original": 9,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Exemplo Estratégico",
+    "paragraphs": [
+      "Cenário:",
+      "A Netflix, uma empresa de streaming de filmes e séries.",
+      "Decisão Estratégica:",
+      "\"Devemos entrar no mercado de games para competir com Xbox e PlayStation?\"",
+      "Impacto:",
+      "Define o futuro da empresa para os próximos 5-10 anos."
+    ],
+    "images": [
+      {
+        "x": 641.25,
+        "y": 158.25,
+        "w": 132.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/55265ce7-0372-4cd6-8fef-ad6121f321e8/b596fe2e81c334ea6fcb.png",
+        "ratio": 0.4391025641025641
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Exemplo Estratégico",
+      "Cenário:",
+      "A Netflix, uma empresa de streaming de filmes e séries.",
+      "Decisão Estratégica:",
+      "\"Devemos entrar no mercado de games para competir com Xbox e PlayStation?\"",
+      "Impacto:",
+      "Define o futuro da empresa para os próximos 5-10 anos."
+    ]
+  },
+  {
+    "id": "slides03-10",
+    "source": "slides03.pdf",
+    "original": 10,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Táticas: Planejando a Rota da Viagem",
+    "paragraphs": [
+      "Médio prazo: Decisões que afetam os próximos",
+      "meses ou semestres. Alocação de recursos: Como distribuir",
+      "orçamento, pessoal e tempo para implementar a estratégia. Implementação da estratégia: Transformar os",
+      "planos estratégicos em ações concretas. Quem toma: Gerentes de área (Marketing,",
+      "Finanças, RH).",
+      "Pergunta-chave: \"Como NÓS FAREMOS o",
+      "que foi definido?\""
+    ],
+    "images": [
+      {
+        "x": 538.5,
+        "y": 187.5,
+        "w": 337.5,
+        "h": 262.5,
+        "url": "/__l5e/assets-v1/68e83998-60d5-4dd1-9e67-b94654a17386/2e2e5fc5de79f6ace94b.png",
+        "ratio": 1.2861111111111112
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Táticas: Planejando a Rota da Viagem",
+      "Médio prazo: Decisões que afetam os próximos",
+      "meses ou semestres. Alocação de recursos: Como distribuir",
+      "orçamento, pessoal e tempo para implementar a estratégia. Implementação da estratégia: Transformar os",
+      "planos estratégicos em ações concretas. Quem toma: Gerentes de área (Marketing,",
+      "Finanças, RH).",
+      "Pergunta-chave: \"Como NÓS FAREMOS o",
+      "que foi definido?\""
+    ]
+  },
+  {
+    "id": "slides03-11",
+    "source": "slides03.pdf",
+    "original": 11,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Exemplo Tático",
+    "paragraphs": [
+      "Cenário:",
+      "A Netflix decidiu lançar a série \"Stranger Things\".",
+      "Decisão Tática:",
+      "\"Qual será o orçamento de marketing para a nova",
+      "temporada? Onde vamos anunciar: YouTube, TikTok, comerciais de TV?\"",
+      "Impacto:",
+      "Afeta o sucesso daquele projeto específico no próximo semestre."
+    ],
+    "images": [
+      {
+        "x": 519.75,
+        "y": 158.25,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/c2b82d35-999b-4254-a4e0-2f1189d988f3/4dcfb6d4f3e32ec41c69.png",
+        "ratio": 1.2489991993594876
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Exemplo Tático",
+      "Cenário:",
+      "A Netflix decidiu lançar a série \"Stranger Things\".",
+      "Decisão Tática:",
+      "\"Qual será o orçamento de marketing para a nova",
+      "temporada? Onde vamos anunciar: YouTube, TikTok, comerciais de TV?\"",
+      "Impacto:",
+      "Afeta o sucesso daquele projeto específico no próximo semestre."
+    ]
+  },
+  {
+    "id": "slides03-12",
+    "source": "slides03.pdf",
+    "original": 12,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Operacionais: Ajustando as Velas do Barco",
+    "paragraphs": [
+      "Características",
+      "Curto prazo, repetitivas, seguem regras bem definidas.",
+      "Quem toma",
+      "Supervisores, funcionários da linha de frente, sistemas automatizados.",
+      "Frequência",
+      "Diárias ou contínuas, muitas vezes automatizadas por sistemas.",
+      " \"Como estamos EXECUTANDO as tarefas",
+      "do dia a dia?\" "
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 208.5,
+        "w": 375.0,
+        "h": 210.75,
+        "url": "/__l5e/assets-v1/6a3d118f-2547-4738-a6cd-e8e5dd504ba1/13e70c111005e4020789.png",
+        "ratio": 1.7767653758542141
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Operacionais: Ajustando as Velas do Barco",
+      "Características",
+      "Curto prazo, repetitivas, seguem regras bem definidas.",
+      "Quem toma",
+      "Supervisores, funcionários da linha de frente, sistemas automatizados.",
+      "Frequência",
+      "Diárias ou contínuas, muitas vezes automatizadas por sistemas.",
+      " \"Como estamos EXECUTANDO as tarefas",
+      "do dia a dia?\" "
+    ]
+  },
+  {
+    "id": "slides03-13",
+    "source": "slides03.pdf",
+    "original": 13,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Exemplo Operacional",
+    "paragraphs": [
+      "Cenário:",
+      "Um usuário acessa a página inicial da Netflix.",
+      "Decisão Operacional:",
+      "\"Qual filme ou série vamos recomendar para",
+      "ESTE usuário, neste exato momento, com base no seu histórico?\"",
+      "(muitas vezes automatizada por algoritmos)",
+      "Impacto:",
+      "Acontece milhares de vezes por segundo, otimizando a experiência individual de cada usuário."
+    ],
+    "images": [
+      {
+        "x": 519.75,
+        "y": 177.75,
+        "w": 375.0,
+        "h": 262.5,
+        "url": "/__l5e/assets-v1/c62bb2d1-23a9-4a10-a950-1ef713d49ef0/23fbb0d6206cda61365c.png",
+        "ratio": 1.4310722100656454
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Exemplo Operacional",
+      "Cenário:",
+      "Um usuário acessa a página inicial da Netflix.",
+      "Decisão Operacional:",
+      "\"Qual filme ou série vamos recomendar para",
+      "ESTE usuário, neste exato momento, com base no seu histórico?\"",
+      "(muitas vezes automatizada por algoritmos)",
+      "Impacto:",
+      "Acontece milhares de vezes por segundo, otimizando a experiência individual de cada usuário."
+    ]
+  },
+  {
+    "id": "slides03-14",
+    "source": "slides03.pdf",
+    "original": 14,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O Dilúvio de Dados",
+    "paragraphs": [
+      "Para cada decisão, temos mais dados, relatórios, e-mails, notícias e opiniões do que conseguimos processar.",
+      "Fontes de sobrecarga:",
+      " Relatórios e dashboards em múltiplas plataformas",
+      " Centenas de e-mails e mensagens diárias",
+      " Notícias e atualizações do mercado em tempo real",
+      " Opiniões e feedback de múltiplos stakeholders"
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 120.0,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/fa645f5e-84a2-400b-b3cf-aa784191a4ea/6c53bba496d9ddd0d0fb.png",
+        "ratio": 1.2526690391459074
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O Dilúvio de Dados",
+      "Para cada decisão, temos mais dados, relatórios, e-mails, notícias e opiniões do que conseguimos processar.",
+      "Fontes de sobrecarga:",
+      " Relatórios e dashboards em múltiplas plataformas",
+      " Centenas de e-mails e mensagens diárias",
+      " Notícias e atualizações do mercado em tempo real",
+      " Opiniões e feedback de múltiplos stakeholders"
+    ]
+  },
+  {
+    "id": "slides03-15",
+    "source": "slides03.pdf",
+    "original": 15,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O Risco de Saber Demais",
+    "paragraphs": [
+      "Definição:",
+      "A \"Paralisia por Análise\" ocorre quando o excesso de informação e alternativas nos impede de tomar uma decisão. Ficamos presos, analisando sem parar.",
+      "Procrastinação constante de decisões importantes",
+      "Busca interminável por mais dados e informações",
+      "Medo excessivo de cometer erros",
+      "Sobrecarga cognitiva que leva à inação"
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 141.0,
+        "w": 375.0,
+        "h": 258.0,
+        "url": "/__l5e/assets-v1/a33f0d04-817c-4203-a79e-70270db43a34/6210381d7f902f1cd4eb.png",
+        "ratio": 1.452894438138479
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O Risco de Saber Demais",
+      "Definição:",
+      "A \"Paralisia por Análise\" ocorre quando o excesso de informação e alternativas nos impede de tomar uma decisão. Ficamos presos, analisando sem parar.",
+      "Procrastinação constante de decisões importantes",
+      "Busca interminável por mais dados e informações",
+      "Medo excessivo de cometer erros",
+      "Sobrecarga cognitiva que leva à inação"
+    ]
+  },
+  {
+    "id": "slides03-16",
+    "source": "slides03.pdf",
+    "original": 16,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O \"Paradoxo da Netflix\"",
+    "paragraphs": [
+      "Cenário:",
+      "Você abre a Netflix para ver um filme. O sistema te dá 5.000 opções.",
+      "Resultado:",
+      "Você passa 40 minutos navegando pelo catálogo, fica cansado com tantas opções e acaba não assistindo nada (ou assiste ao mesmo de sempre)."
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 120.0,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/22c88abe-8029-4ebe-854a-c43509898c6c/e527c6d89a5e29db42cf.png",
+        "ratio": 1.2513761467889908
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O \"Paradoxo da Netflix\"",
+      "Cenário:",
+      "Você abre a Netflix para ver um filme. O sistema te dá 5.000 opções.",
+      "Resultado:",
+      "Você passa 40 minutos navegando pelo catálogo, fica cansado com tantas opções e acaba não assistindo nada (ou assiste ao mesmo de sempre)."
+    ]
+  },
+  {
+    "id": "slides03-17",
+    "source": "slides03.pdf",
+    "original": 17,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O que é um Sistema de Apoio à Decisão (SAD)?",
+    "paragraphs": [
+      "Definição:",
+      "\"Sistemas interativos baseados em computador que ajudam os tomadores de decisão a usar dados e modelos para resolver problemas complexos.\"",
+      "Fornece suporte estruturado para processos de",
+      "tomada de decisão",
+      "Combina dados e modelos analíticos em uma",
+      "interface amigável",
+      "Permite simulações de cenários \"E se...?\" para testar",
+      "alternativas",
+      "Aumenta a eficiência e qualidade das decisões",
+      "organizacionais"
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 150.0,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/b854f2f7-3ce5-46f3-b4be-ac4902a1a372/3acb3e24dc9239cecbd4.png",
+        "ratio": 1.2524752475247525
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O que é um Sistema de Apoio à Decisão (SAD)?",
+      "Definição:",
+      "\"Sistemas interativos baseados em computador que ajudam os tomadores de decisão a usar dados e modelos para resolver problemas complexos.\"",
+      "Fornece suporte estruturado para processos de",
+      "tomada de decisão",
+      "Combina dados e modelos analíticos em uma",
+      "interface amigável",
+      "Permite simulações de cenários \"E se...?\" para testar",
+      "alternativas",
+      "Aumenta a eficiência e qualidade das decisões",
+      "organizacionais"
+    ]
+  },
+  {
+    "id": "slides03-18",
+    "source": "slides03.pdf",
+    "original": 18,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Os Ingredientes de um SAD",
+    "paragraphs": [
+      "",
+      "Interativos",
+      "Você pode \"conversar\" com o sistema, fazer perguntas, simular cenários (\"E se...?\") e obter respostas em tempo real.",
+      "",
+      "Usam Dados",
+      "São alimentados por dados internos (vendas, estoque) e externos (mercado, concorrentes) para fornecer uma visão",
+      "completa.",
+      "",
+      "Usam Modelos",
+      "Contêm a \"inteligência\" (modelos financeiros, estatísticos, de",
+      "otimização) que processa os dados e gera insights.",
+      "",
+      "Resolvem Problemas Complexos",
+      "São ideais para as decisões Táticas e Estratégicas, que não",
+      "têm uma resposta óbvia e exigem análise aprofundada."
+    ],
+    "images": [
+      {
+        "x": 870.0,
+        "y": 523.5,
+        "w": 75.0,
+        "h": 61.5,
+        "url": "/__l5e/assets-v1/b12a1944-b39b-4767-b5f3-b4526f5671c3/380f38787f96263b4ecb.png",
+        "ratio": 1.21765601217656
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Os Ingredientes de um SAD",
+      "",
+      "Interativos",
+      "Você pode \"conversar\" com o sistema, fazer perguntas, simular cenários (\"E se...?\") e obter respostas em tempo real.",
+      "",
+      "Usam Dados",
+      "São alimentados por dados internos (vendas, estoque) e externos (mercado, concorrentes) para fornecer uma visão",
+      "completa.",
+      "",
+      "Usam Modelos",
+      "Contêm a \"inteligência\" (modelos financeiros, estatísticos, de",
+      "otimização) que processa os dados e gera insights.",
+      "",
+      "Resolvem Problemas Complexos",
+      "São ideais para as decisões Táticas e Estratégicas, que não",
+      "têm uma resposta óbvia e exigem análise aprofundada."
+    ]
+  },
+  {
+    "id": "slides03-19",
+    "source": "slides03.pdf",
+    "original": 19,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "Ampliar, Não Substituir",
+    "paragraphs": [
+      "O objetivo de um SAD não é tomar a decisão por você. É organizar a complexidade e apresentar os melhores cenários para que VOCÊ, o humano, tome a decisão final com mais confiança e embasamento.",
+      "A Metáfora do Piloto",
+      "Como um piloto em uma cabine moderna, você está no controle, mas o painel à sua frente (o SAD) lhe dá todas as informações cruciais (altitude, velocidade, rota) para tomar decisões melhores e mais seguras."
+    ],
+    "images": [
+      {
+        "x": 521.25,
+        "y": 120.0,
+        "w": 375.0,
+        "h": 300.0,
+        "url": "/__l5e/assets-v1/1aa53e14-9dac-4748-a8ed-211972f0455c/a0a710a74ffd9adc8e0f.png",
+        "ratio": 1.2520515826494725
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Ampliar, Não Substituir",
+      "O objetivo de um SAD não é tomar a decisão por você. É organizar a complexidade e apresentar os melhores cenários para que VOCÊ, o humano, tome a decisão final com mais confiança e embasamento.",
+      "A Metáfora do Piloto",
+      "Como um piloto em uma cabine moderna, você está no controle, mas o painel à sua frente (o SAD) lhe dá todas as informações cruciais (altitude, velocidade, rota) para tomar decisões melhores e mais seguras."
+    ]
+  },
+  {
+    "id": "slides03-20",
+    "source": "slides03.pdf",
+    "original": 20,
+    "section": "Sistemas de Apoio à Decisão",
+    "title": "O SAD te dá a melhor cabine, não o piloto automático",
+    "paragraphs": [
+      "Ele te transforma em um piloto mais capaz, com superpoderes para enxergar através da neblina dos dados.",
+      "Painéis intuitivos que mostram os indicadores mais",
+      "importantes",
+      "Visibilidade clara mesmo em ambientes complexos e",
+      "incertos",
+      "Amplia sua capacidade cognitiva, mas mantém você",
+      "no controle",
+      "Permite simular rotas e cenários antes de tomar",
+      "decisões"
+    ],
+    "images": [
+      {
+        "x": 502.5,
+        "y": 107.25,
+        "w": 412.5,
+        "h": 337.5,
+        "url": "/__l5e/assets-v1/de3c02e9-645d-446e-b860-55dd1395fc2c/675a265b748dbace88b3.png",
+        "ratio": 1.2230769230769232
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "O SAD te dá a melhor cabine, não o piloto automático",
+      "Ele te transforma em um piloto mais capaz, com superpoderes para enxergar através da neblina dos dados.",
+      "Painéis intuitivos que mostram os indicadores mais",
+      "importantes",
+      "Visibilidade clara mesmo em ambientes complexos e",
+      "incertos",
+      "Amplia sua capacidade cognitiva, mas mantém você",
+      "no controle",
+      "Permite simular rotas e cenários antes de tomar",
+      "decisões"
+    ]
+  },
+  {
+    "id": "conexao-sad-ml",
+    "section": "Conexão",
+    "title": "Do apoio à decisão ao aprendizado de máquina",
+    "paragraphs": [
+      "A seguir: dados, modelos e aprendizado de máquina."
+    ],
+    "images": [],
+    "links": [],
+    "transition": true,
+    "sourceText": []
+  },
+  {
+    "id": "slide02-1",
+    "source": "slide02.odp",
+    "original": 1,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 8.731,
+        "y": 2.699,
+        "w": 15.054,
+        "h": 15.054,
+        "url": "/__l5e/assets-v1/cbd0514e-3e86-4dca-a869-e0fd79e18838/2c728821ffa7b0601f98.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-2",
+    "source": "slide02.odp",
+    "original": 2,
+    "section": "Machine Learning",
+    "title": "Aprendizado",
+    "paragraphs": [
+      "Aprender: Adquirir conhecimento através do estudo, experiência ou sendo ensinado",
+      "Aprendizado de máquina: Uso de algoritmos para adquirir descrições estruturais (modelos) sobre exemplos de dados"
+    ],
+    "images": [
+      {
+        "x": 28.625,
+        "y": 0.318,
+        "w": 4.712,
+        "h": 4.523,
+        "url": "/__l5e/assets-v1/7359d755-67b9-43a6-beaf-3d5bbde337fa/e178fa6948581d0b0400.png",
+        "ratio": 1.04093567251462
+      },
+      {
+        "x": 19.258,
+        "y": 12.012,
+        "w": 10.927,
+        "h": 5.74,
+        "url": "/__l5e/assets-v1/f0845ff8-5425-44b6-acbe-366f57c94ffa/bb8c2348020293d5433e.png",
+        "ratio": 1.903225806451613
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aprender: Adquirir conhecimento através do estudo, experiência ou sendo ensinado",
+      "Aprendizado de máquina: Uso de algoritmos para adquirir descrições estruturais (modelos) sobre exemplos de dados",
+      "Aprendizado"
+    ]
+  },
+  {
+    "id": "slide02-3",
+    "source": "slide02.odp",
+    "original": 3,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [
+      "Construir programas ou sistemas que buscam melhorar seu desempenho através da experiência",
+      "Aprendizado automático automático utilizando grandes volumes de dados (Big Data)",
+      " Gerar hipótese a partir de dados"
+    ],
+    "images": [
+      {
+        "x": 25.759,
+        "y": 12.726,
+        "w": 7.684,
+        "h": 5.026,
+        "url": "/__l5e/assets-v1/d94f9c44-424a-4e2c-8485-eb3c4d0bb86c/b451a29981ac805ce323.png",
+        "ratio": 1.5263157894736843
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Construir programas ou sistemas que buscam melhorar seu desempenho através da experiência",
+      "Aprendizado automático automático utilizando grandes volumes de dados (Big Data)",
+      " Gerar hipótese a partir de dados",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-4",
+    "source": "slide02.odp",
+    "original": 4,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [
+      "A máquina precisará de um volume de dados suficientes para gerar um modelo que represente todos os padrões existentes. ",
+      "Grandes volumes de dados não garantem que a máquina aprenderá tudo",
+      "Diversidade de dados que represente o que deseja aprender"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "A máquina precisará de um volume de dados suficientes para gerar um modelo que represente todos os padrões existentes. ",
+      "Grandes volumes de dados não garantem que a máquina aprenderá tudo",
+      "Diversidade de dados que represente o que deseja aprender",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-5",
+    "source": "slide02.odp",
+    "original": 5,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 6.134,
+        "y": 3.499,
+        "w": 20.928,
+        "h": 12.639,
+        "url": "/__l5e/assets-v1/0c7e81eb-7aad-4ae5-8393-d29ef08a6350/cc35eef56349cda33929.png",
+        "ratio": 1.472
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-6",
+    "source": "slide02.odp",
+    "original": 6,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [
+      "Ensolarado, frio, normal, falso"
+    ],
+    "images": [
+      {
+        "x": 17,
+        "y": 2,
+        "w": 17,
+        "h": 9,
+        "url": "/__l5e/assets-v1/a9b7d729-09b7-4d84-bde6-932512a70dca/abefd139c016ccb7af81.png",
+        "ratio": 1.8673780487804879
+      },
+      {
+        "x": 0.272,
+        "y": 2.924,
+        "w": 15.726,
+        "h": 13.189,
+        "url": "/__l5e/assets-v1/4e908c85-0665-424f-b7a0-bc0d46c61716/53687fd6d0578da305d8.png",
+        "ratio": 1.1927710843373494
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Machine Learning",
+      "Aparência",
+      "Umidade",
+      "Ventoso",
+      "Sim",
+      "Sim",
+      "Sim",
+      "Ensolarado",
+      "nublado",
+      "chuvoso",
+      "Alta",
+      "Normal",
+      "falso",
+      "verdadeiro",
+      "Não",
+      "Não",
+      "Ensolarado, frio, normal, falso"
+    ]
+  },
+  {
+    "id": "slide02-7",
+    "source": "slide02.odp",
+    "original": 7,
+    "section": "Machine Learning",
+    "title": "Inferência Indutiva",
+    "paragraphs": [
+      "Processo de raciocínio para uma conclusão sobre todos os membros de uma classe por meio de observação de poucos membros da classe ",
+      "Do particular para o Geral"
+    ],
+    "images": [
+      {
+        "x": 24.365,
+        "y": 10.16,
+        "w": 7.357,
+        "h": 7.328,
+        "url": "/__l5e/assets-v1/4a0262a2-be00-4e25-bcdd-406b1397c5a0/c00d2f97a9c51c915436.png",
+        "ratio": 1.0036101083032491
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Processo de raciocínio para uma conclusão sobre todos os membros de uma classe por meio de observação de poucos membros da classe ",
+      "Do particular para o Geral",
+      "Inferência Indutiva"
+    ]
+  },
+  {
+    "id": "slide02-8",
+    "source": "slide02.odp",
+    "original": 8,
+    "section": "Machine Learning",
+    "title": "Inferência Indutiva",
+    "paragraphs": [
+      "Todos os Pastores Alemães examinados na clínica ano passado tem mais de 30kg",
+      "Todos os Pastores Alemães examinados na clínica este ano tem mais de 30kg",
+      "…",
+      "Todos os cachorros da raça Pastor Alemão tem mais de 30kg"
+    ],
+    "images": [
+      {
+        "x": 26.904,
+        "y": 0.238,
+        "w": 6.789,
+        "h": 5.648,
+        "url": "/__l5e/assets-v1/97a4a13c-1b6e-4f69-8efd-4253aad6448f/04f22a385946f73239a6.png",
+        "ratio": 1.2018779342723005
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Todos os Pastores Alemães examinados na clínica ano passado tem mais de 30kg",
+      "Todos os Pastores Alemães examinados na clínica este ano tem mais de 30kg",
+      "…",
+      "Todos os cachorros da raça Pastor Alemão tem mais de 30kg",
+      "Inferência Indutiva"
+    ]
+  },
+  {
+    "id": "slide02-9",
+    "source": "slide02.odp",
+    "original": 9,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [
+      "Em resumo que melhorar a realização de uma tarefa a partir de experiência",
+      "Melhorar a tarefa (T)",
+      "Em relação a medida de desempenho (M)",
+      "Baseado na experiência (E)"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Em resumo que melhorar a realização de uma tarefa a partir de experiência",
+      "Melhorar a tarefa (T)",
+      "Em relação a medida de desempenho (M)",
+      "Baseado na experiência (E)",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-10",
+    "source": "slide02.odp",
+    "original": 10,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [
+      "Tarefa (T) = encontrar rostos em vídeos",
+      "Medida de desempenho (M) = Porcentagem de rostos encontrados corretamente",
+      "Baseado na experiência (E) = Base de dados de fotografias de rostos"
+    ],
+    "images": [
+      {
+        "x": 15.058,
+        "y": 13.494,
+        "w": 18.57,
+        "h": 3.909,
+        "url": "/__l5e/assets-v1/5aa097d8-cffc-45de-a110-f72151ec224e/c9e2b06a712f7a9fc71c.png",
+        "ratio": 4.736486486486487
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Tarefa (T) = encontrar rostos em vídeos",
+      "Medida de desempenho (M) = Porcentagem de rostos encontrados corretamente",
+      "Baseado na experiência (E) = Base de dados de fotografias de rostos",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-11",
+    "source": "slide02.odp",
+    "original": 11,
+    "section": "Machine Learning",
+    "title": "Machine Learning",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 1.1,
+        "y": 0.185,
+        "w": 31.231,
+        "h": 17.567,
+        "url": "/__l5e/assets-v1/0f01814a-814f-4a60-9523-77c8132210e1/ae0ea18390d5ccec35ba.png",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "slide02-12",
+    "source": "slide02.odp",
+    "original": 12,
+    "section": "Machine Learning",
+    "title": "Aprendizado Supervisionado",
+    "paragraphs": [
+      "O algoritmo recebe um conjunto de exemplos de treinamento para o qual os rótulos das classes são conhecidos. ",
+      "Modelo treinado com um conjunto de dados rotulados, ou seja, cada entrada do conjunto de dados é associada a uma saída conhecida (rótulo)."
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Supervisionado",
+      "O algoritmo recebe um conjunto de exemplos de treinamento para o qual os rótulos das classes são conhecidos. ",
+      "Modelo treinado com um conjunto de dados rotulados, ou seja, cada entrada do conjunto de dados é associada a uma saída conhecida (rótulo)."
+    ]
+  },
+  {
+    "id": "slide02-13",
+    "source": "slide02.odp",
+    "original": 13,
+    "section": "Machine Learning",
+    "title": "Aprendizado Supervisionado",
+    "paragraphs": [
+      "Classificação",
+      "Domínio é um conjunto de valores nominais ou discretos",
+      "Regressão",
+      "Domínio é um conjunto infinito e ordenado de valores"
+    ],
+    "images": [
+      {
+        "x": 24.108,
+        "y": 2.747,
+        "w": 8.315,
+        "h": 4.925,
+        "url": "/__l5e/assets-v1/5359e483-2512-4388-b68a-07de63e6ac57/6901c864981151e3c063.png",
+        "ratio": 1.6881720430107527
+      },
+      {
+        "x": 24.108,
+        "y": 9.799,
+        "w": 7.314,
+        "h": 4.07,
+        "url": "/__l5e/assets-v1/aac2beb0-8afd-489b-996d-40ae01608272/3bb8f7da54e1debc092f.png",
+        "ratio": 1.7922077922077921
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Supervisionado",
+      "Classificação",
+      "Domínio é um conjunto de valores nominais ou discretos",
+      "Regressão",
+      "Domínio é um conjunto infinito e ordenado de valores"
+    ]
+  },
+  {
+    "id": "slide02-14",
+    "source": "slide02.odp",
+    "original": 14,
+    "section": "Machine Learning",
+    "title": "Classificação",
+    "paragraphs": [
+      "Classificação",
+      "Regressão"
+    ],
+    "images": [
+      {
+        "x": 2.99,
+        "y": 3.029,
+        "w": 26.087,
+        "h": 13.572,
+        "url": "/__l5e/assets-v1/43d2c7c3-2975-4059-b7b9-39e194827224/bf70bb0b184d2a546152.jpg",
+        "ratio": 1.922027290448343
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação",
+      "Classificação",
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-15",
+    "source": "slide02.odp",
+    "original": 15,
+    "section": "Machine Learning",
+    "title": "Classificação",
+    "paragraphs": [
+      "Classificação",
+      "Regressão"
+    ],
+    "images": [
+      {
+        "x": 2.739,
+        "y": 2.924,
+        "w": 27.66,
+        "h": 14.551,
+        "url": "/__l5e/assets-v1/bc7ec3d1-5b51-441c-bc9f-dc3d47b0f25d/6a5c71661713a9dab7f8.png",
+        "ratio": 1.6314363143631436
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação",
+      "Classificação",
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-16",
+    "source": "slide02.odp",
+    "original": 16,
+    "section": "Machine Learning",
+    "title": "Classificação - Descrição",
+    "paragraphs": [
+      "Paciente doente",
+      "Dengue",
+      "Covid",
+      "Gripe",
+      "Virose"
+    ],
+    "images": [
+      {
+        "x": 1.914,
+        "y": 7.542,
+        "w": 13.245,
+        "h": 8.823,
+        "url": "/__l5e/assets-v1/7425d111-5e44-470e-8482-6e59eb8f7760/a6db14a4c4f317c38862.png",
+        "ratio": 1.5015015015015014
+      },
+      {
+        "x": 15.928,
+        "y": 7.542,
+        "w": 6.719,
+        "h": 6.719,
+        "url": "/__l5e/assets-v1/b8fa8088-f21e-477c-b4b2-7af19b94b67e/16363e66d40e59da0d98.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação - Descrição",
+      "Paciente doente",
+      "Dengue",
+      "Covid",
+      "Gripe",
+      "Virose"
+    ]
+  },
+  {
+    "id": "slide02-17",
+    "source": "slide02.odp",
+    "original": 17,
+    "section": "Machine Learning",
+    "title": "Classificação - Previsão",
+    "paragraphs": [
+      "Compra online",
+      "Legítima",
+      "Fraude"
+    ],
+    "images": [
+      {
+        "x": 3.519,
+        "y": 7.092,
+        "w": 10.424,
+        "h": 10.424,
+        "url": "/__l5e/assets-v1/1f68e438-0031-4e54-991d-13e2850096d5/3804c488b7fc0eef0ed0.png",
+        "ratio": 1.0
+      },
+      {
+        "x": 15.928,
+        "y": 7.542,
+        "w": 6.719,
+        "h": 6.719,
+        "url": "/__l5e/assets-v1/b8fa8088-f21e-477c-b4b2-7af19b94b67e/16363e66d40e59da0d98.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação - Previsão",
+      "Compra online",
+      "Legítima",
+      "Fraude"
+    ]
+  },
+  {
+    "id": "slide02-18",
+    "source": "slide02.odp",
+    "original": 18,
+    "section": "Machine Learning",
+    "title": "Classificação - Previsão",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 6.319,
+        "y": 4.254,
+        "w": 19.024,
+        "h": 12.731,
+        "url": "/__l5e/assets-v1/fd541ec0-d12c-4ab0-b7f6-70e1b1bb0ccd/103b3718310858ca686b.jpg",
+        "ratio": 1.4948024948024947
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação - Previsão"
+    ]
+  },
+  {
+    "id": "slide02-19",
+    "source": "slide02.odp",
+    "original": 19,
+    "section": "Machine Learning",
+    "title": "Classificação",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 7.043,
+        "y": 3.065,
+        "w": 19.78,
+        "h": 14.545,
+        "url": "/__l5e/assets-v1/0583fc50-a71d-43fd-9475-6d15a2fb146f/2d1bc1ef7714c3ed694e.jpg",
+        "ratio": 1.360655737704918
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação"
+    ]
+  },
+  {
+    "id": "slide02-20",
+    "source": "slide02.odp",
+    "original": 20,
+    "section": "Machine Learning",
+    "title": "Classificação",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 8.19,
+        "y": 2.924,
+        "w": 16.788,
+        "h": 14.315,
+        "url": "/__l5e/assets-v1/da32a606-0f13-4ec8-9241-ac4626e54ed5/015785d92114c7b5488f.png",
+        "ratio": 1.1719038817005545
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação"
+    ]
+  },
+  {
+    "id": "slide02-21",
+    "source": "slide02.odp",
+    "original": 21,
+    "section": "Machine Learning",
+    "title": "Classificação",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 4.233,
+        "y": 2.791,
+        "w": 23.237,
+        "h": 7.59,
+        "url": "/__l5e/assets-v1/af8bce4d-533a-4bb4-828e-d39d4f387bc4/404bc8e51cabdeb7999b.jpg",
+        "ratio": 3.059233449477352
+      },
+      {
+        "x": 4.035,
+        "y": 10.272,
+        "w": 23.633,
+        "h": 7.481,
+        "url": "/__l5e/assets-v1/6ed24694-0452-44c8-bdea-0c3ae4e7e8db/423b3a9b1da40fe96c48.jpg",
+        "ratio": 3.1554770318021204
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação"
+    ]
+  },
+  {
+    "id": "slide02-22",
+    "source": "slide02.odp",
+    "original": 22,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Naive Bayes",
+      "Decision Tree",
+      "Logistic Regression",
+      "K-Nearest Neighbours (K-NN)",
+      "Support Vector Machine (SVM)",
+      "Utilização",
+      "Filtragem de spam",
+      "Detecção de idioma",
+      "Pesquisa por documentos semelhantes",
+      "Análise de sentimentos",
+      "Reconhecimento de caracteres e números manuscritos",
+      "Detecção de fraude"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Naive Bayes",
+      "Decision Tree",
+      "Logistic Regression",
+      "K-Nearest Neighbours (K-NN)",
+      "Support Vector Machine (SVM)",
+      "Utilização",
+      "Filtragem de spam",
+      "Detecção de idioma",
+      "Pesquisa por documentos semelhantes",
+      "Análise de sentimentos",
+      "Reconhecimento de caracteres e números manuscritos",
+      "Detecção de fraude"
+    ]
+  },
+  {
+    "id": "slide02-23",
+    "source": "slide02.odp",
+    "original": 23,
+    "section": "Machine Learning",
+    "title": "Regressão",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 1.641,
+        "y": 5.53,
+        "w": 29.478,
+        "h": 8.713,
+        "url": "/__l5e/assets-v1/56c130ce-c6ef-45b8-b7aa-23d8d788cabf/4662ae96cf233d24bad7.jpg",
+        "ratio": 3.382978723404255
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-24",
+    "source": "slide02.odp",
+    "original": 24,
+    "section": "Machine Learning",
+    "title": "Regressão",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.305,
+        "y": 5.104,
+        "w": 16.628,
+        "h": 10.468,
+        "url": "/__l5e/assets-v1/aecc2e8c-4dac-4359-9898-37ba3101d818/9e1b343ed33012d82e6d.jpg",
+        "ratio": 1.589873417721519
+      },
+      {
+        "x": 17.453,
+        "y": 5.292,
+        "w": 15.222,
+        "h": 10.281,
+        "url": "/__l5e/assets-v1/276b11c7-5562-4e66-8a4a-ab4fbae455a7/afcde2ef510cabd3b8a4.jpg",
+        "ratio": 1.481958762886598
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-25",
+    "source": "slide02.odp",
+    "original": 25,
+    "section": "Machine Learning",
+    "title": "Regressão",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 5.556,
+        "y": 2.968,
+        "w": 20.772,
+        "h": 14.19,
+        "url": "/__l5e/assets-v1/b021a667-1113-4b3a-a747-a974889a76dd/6c6b4978164afe9d9ed9.jpg",
+        "ratio": 1.4645522388059702
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-26",
+    "source": "slide02.odp",
+    "original": 26,
+    "section": "Machine Learning",
+    "title": "Regressão",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 4.233,
+        "y": 2.821,
+        "w": 24.158,
+        "h": 14.483,
+        "url": "/__l5e/assets-v1/22a5ec93-2a61-4975-83c9-0cf7ec63d541/03d7c5a0e43b687c2de1.png",
+        "ratio": 1.6679035250463823
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Regressão"
+    ]
+  },
+  {
+    "id": "slide02-27",
+    "source": "slide02.odp",
+    "original": 27,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Regressão Linear",
+      "Regressão Polinomial ",
+      "Utilização",
+      "Previsões do preço das ações",
+      "Análise de demanda e volume de vendas",
+      "Diagnóstico médico",
+      "Quaisquer correlações numéricas"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Regressão Linear",
+      "Regressão Polinomial ",
+      "Utilização",
+      "Previsões do preço das ações",
+      "Análise de demanda e volume de vendas",
+      "Diagnóstico médico",
+      "Quaisquer correlações numéricas"
+    ]
+  },
+  {
+    "id": "slide02-28",
+    "source": "slide02.odp",
+    "original": 28,
+    "section": "Machine Learning",
+    "title": "Aprendizado Não - Supervisionado",
+    "paragraphs": [
+      "O algoritmo analisa os exemplos fornecidos e tenta agrupá-los de alguma maneira, baseado em suas características. ",
+      "O modelo é treinado com um conjunto de dados não rotulados, ou seja, os dados de treinamento incluem apenas as entradas. O objetivo é encontrar padrões nos dados e agrupá-los de acordo com sua similaridade."
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Não - Supervisionado",
+      "O algoritmo analisa os exemplos fornecidos e tenta agrupá-los de alguma maneira, baseado em suas características. ",
+      "O modelo é treinado com um conjunto de dados não rotulados, ou seja, os dados de treinamento incluem apenas as entradas. O objetivo é encontrar padrões nos dados e agrupá-los de acordo com sua similaridade."
+    ]
+  },
+  {
+    "id": "slide02-29",
+    "source": "slide02.odp",
+    "original": 29,
+    "section": "Machine Learning",
+    "title": "Aprendizado Não - Supervisionado",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 19.288,
+        "y": 2.619,
+        "w": 16.747,
+        "h": 14.172,
+        "url": "/__l5e/assets-v1/86a2a30a-d304-4b77-8649-b76e872417ff/868cafdd29051dc2c536.png",
+        "ratio": 1.0
+      },
+      {
+        "x": 4.452,
+        "y": 3.09,
+        "w": 15.41,
+        "h": 9.383,
+        "url": "/__l5e/assets-v1/79088f39-c96e-4d6a-89cb-c76c774c10d8/cb1d12214231576cbd07.png",
+        "ratio": 1.6440677966101696
+      },
+      {
+        "x": 2.653,
+        "y": 12.641,
+        "w": 12.877,
+        "h": 5.013,
+        "url": "/__l5e/assets-v1/4229f4b0-c357-4928-8749-f4748e52b574/90f0890453cdb40e4b44.png",
+        "ratio": 2.5714285714285716
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Não - Supervisionado"
+    ]
+  },
+  {
+    "id": "slide02-30",
+    "source": "slide02.odp",
+    "original": 30,
+    "section": "Machine Learning",
+    "title": "Aprendizado Não - Supervisionado",
+    "paragraphs": [
+      "Agrupamento (Clusterização)",
+      "Redução de Dimensionalidade (Generalização)",
+      "Associação"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Não - Supervisionado",
+      "Agrupamento (Clusterização)",
+      "Redução de Dimensionalidade (Generalização)",
+      "Associação"
+    ]
+  },
+  {
+    "id": "slide02-31",
+    "source": "slide02.odp",
+    "original": 31,
+    "section": "Machine Learning",
+    "title": "Agrupamento (Clusterização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.841,
+        "y": 4.084,
+        "w": 19.686,
+        "h": 11.102,
+        "url": "/__l5e/assets-v1/4483f7c0-8958-44d8-8ec4-cf4af4b76c87/8bf0cb14bec10ddabe7d.png",
+        "ratio": 1.7714285714285714
+      },
+      {
+        "x": 22.569,
+        "y": 4.63,
+        "w": 9.259,
+        "h": 9.259,
+        "url": "/__l5e/assets-v1/b3677b54-d2cf-4c48-9c4f-ed7e79283c4b/6bbc39f159f10b6453e1.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Agrupamento (Clusterização)"
+    ]
+  },
+  {
+    "id": "slide02-32",
+    "source": "slide02.odp",
+    "original": 32,
+    "section": "Machine Learning",
+    "title": "Agrupamento (Clusterização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 5.018,
+        "y": 3.579,
+        "w": 24.377,
+        "h": 12.966,
+        "url": "/__l5e/assets-v1/751e4d50-874d-4c42-b2c0-a4e169b6d54f/45dd251df429f86b7db0.png",
+        "ratio": 1.88
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Agrupamento (Clusterização)"
+    ]
+  },
+  {
+    "id": "slide02-33",
+    "source": "slide02.odp",
+    "original": 33,
+    "section": "Machine Learning",
+    "title": "Tipos de agrupamento (Clusterização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 2.681,
+        "y": 4.069,
+        "w": 29.067,
+        "h": 11.987,
+        "url": "/__l5e/assets-v1/9f75a526-2142-4358-97b5-cbec42c30723/faf1881506e0eba6b955.png",
+        "ratio": 2.4248704663212437
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Tipos de agrupamento (Clusterização)"
+    ]
+  },
+  {
+    "id": "slide02-34",
+    "source": "slide02.odp",
+    "original": 34,
+    "section": "Machine Learning",
+    "title": "Tipos de agrupamento (Clusterização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 3.108,
+        "y": 3.711,
+        "w": 27.853,
+        "h": 13.255,
+        "url": "/__l5e/assets-v1/22bd468e-7cdb-4738-82ef-80cd9bfe1a8b/e0c0755c8cae21a47fe2.png",
+        "ratio": 2.101321585903084
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Tipos de agrupamento (Clusterização)"
+    ]
+  },
+  {
+    "id": "slide02-35",
+    "source": "slide02.odp",
+    "original": 35,
+    "section": "Machine Learning",
+    "title": "Tipos de agrupamento (Clusterização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 1.894,
+        "y": 4.008,
+        "w": 29.736,
+        "h": 12.382,
+        "url": "/__l5e/assets-v1/7af4ec6c-091d-4633-a96f-361e608f794c/128cd8d99cb5923da540.png",
+        "ratio": 2.401496259351621
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Tipos de agrupamento (Clusterização)"
+    ]
+  },
+  {
+    "id": "slide02-36",
+    "source": "slide02.odp",
+    "original": 36,
+    "section": "Machine Learning",
+    "title": "",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 6.134,
+        "y": 0.633,
+        "w": 20.066,
+        "h": 16.591,
+        "url": "/__l5e/assets-v1/6958326d-814a-4f37-ab96-7f491f390962/a805712d5485c245d297.png",
+        "ratio": 1.2089314194577352
+      }
+    ],
+    "links": [],
+    "sourceText": []
+  },
+  {
+    "id": "slide02-37",
+    "source": "slide02.odp",
+    "original": 37,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "K-means clustering",
+      "Mean-Shift",
+      "DBSCAN",
+      "Utilização",
+      "Segmentação de mercado (tipos de clientes, fidelidade)",
+      "Mesclar pontos próximos em um mapa",
+      "Compressão de imagem",
+      "Analisar e rotular novos dados",
+      "Detectar um comportamento anormal"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "K-means clustering",
+      "Mean-Shift",
+      "DBSCAN",
+      "Utilização",
+      "Segmentação de mercado (tipos de clientes, fidelidade)",
+      "Mesclar pontos próximos em um mapa",
+      "Compressão de imagem",
+      "Analisar e rotular novos dados",
+      "Detectar um comportamento anormal"
+    ]
+  },
+  {
+    "id": "slide02-38",
+    "source": "slide02.odp",
+    "original": 38,
+    "section": "Machine Learning",
+    "title": "Redução de Dimensionalidade (Generalização)",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 17.67,
+        "y": 3.859,
+        "w": 13.898,
+        "h": 7.249,
+        "url": "/__l5e/assets-v1/c3dff7f1-167f-47e6-b0cf-1c80aac1e8bc/80ecd31dfe224ed274df.png",
+        "ratio": 1.916058394160584
+      },
+      {
+        "x": 2.924,
+        "y": 4.143,
+        "w": 11.839,
+        "h": 11.839,
+        "url": "/__l5e/assets-v1/42d53800-3dee-4783-9d2d-ed3f032b1165/1574bce7099bba2dfd42.png",
+        "ratio": 1.0
+      },
+      {
+        "x": 24.5,
+        "y": 11.456,
+        "w": 5.555,
+        "h": 5.555,
+        "url": "/__l5e/assets-v1/2b59d27b-4ded-42f3-8f85-fd018208aed0/e74f444060c026637acc.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Redução de Dimensionalidade (Generalização)"
+    ]
+  },
+  {
+    "id": "slide02-39",
+    "source": "slide02.odp",
+    "original": 39,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Principal Component Analysis (PCA)",
+      "Singular Value Decomposition(SVD)",
+      "Latent Dirichlet allocation (LDA)",
+      "Latent Semantic Analysis (LSA, pLSA, GLSA)",
+      "t-SNE (t-distributed Stochastic Neighbor Embedding)",
+      "Utilização",
+      "Criar sistemas de recomendação",
+      "Modelar tópicos e pesquisa de documentos similares",
+      "Análise de imagens falsas",
+      "Gerenciamento de riscos"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Principal Component Analysis (PCA)",
+      "Singular Value Decomposition(SVD)",
+      "Latent Dirichlet allocation (LDA)",
+      "Latent Semantic Analysis (LSA, pLSA, GLSA)",
+      "t-SNE (t-distributed Stochastic Neighbor Embedding)",
+      "Utilização",
+      "Criar sistemas de recomendação",
+      "Modelar tópicos e pesquisa de documentos similares",
+      "Análise de imagens falsas",
+      "Gerenciamento de riscos"
+    ]
+  },
+  {
+    "id": "slide02-40",
+    "source": "slide02.odp",
+    "original": 40,
+    "section": "Machine Learning",
+    "title": "Associação",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 2.17,
+        "y": 3.859,
+        "w": 11.694,
+        "h": 11.694,
+        "url": "/__l5e/assets-v1/aace2aa5-52cd-4e71-99e8-2534c25ed7b9/2033473a7bfcd223e9a8.png",
+        "ratio": 1.0
+      },
+      {
+        "x": 13.184,
+        "y": 6.008,
+        "w": 19.809,
+        "h": 6.559,
+        "url": "/__l5e/assets-v1/57a67200-2495-439d-97ff-7b10b85738b3/0b153afbd4813d350c8b.png",
+        "ratio": 3.0161290322580645
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Associação"
+    ]
+  },
+  {
+    "id": "slide02-41",
+    "source": "slide02.odp",
+    "original": 41,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Apriori",
+      "Euclat",
+      "FP-growth",
+      "Utilização",
+      "Para prever vendas e descontos;",
+      "Para analisar mercadorias compradas em conjunto",
+      "Para colocar os produtos nas prateleiras",
+      "Para analisar padrões de navegação na web"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Apriori",
+      "Euclat",
+      "FP-growth",
+      "Utilização",
+      "Para prever vendas e descontos;",
+      "Para analisar mercadorias compradas em conjunto",
+      "Para colocar os produtos nas prateleiras",
+      "Para analisar padrões de navegação na web"
+    ]
+  },
+  {
+    "id": "slide02-42",
+    "source": "slide02.odp",
+    "original": 42,
+    "section": "Machine Learning",
+    "title": "Classificação ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 3.81,
+        "y": 0.273,
+        "w": 24.815,
+        "h": 17.48,
+        "url": "/__l5e/assets-v1/b559ff17-6fe5-4cad-9842-adaad95fd3af/2e3efdad8b41855f3348.png",
+        "ratio": 1.4195933456561922
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Classificação "
+    ]
+  },
+  {
+    "id": "slide02-43",
+    "source": "slide02.odp",
+    "original": 43,
+    "section": "Machine Learning",
+    "title": "Aprendizado Semi - Supervisionado",
+    "paragraphs": [
+      "É uma mistura dos dois. ",
+      "Assume que, junto com o conjunto de treinamento, há um segundo conjunto com dados não rotulados que também será utilizado no treinamento  ",
+      "É usado quando temos um conjunto de dados onde apenas algumas das amostras são rotuladas, ou seja, possuem as classes atribuídas, enquanto a maioria das amostras não possui rótulos."
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Semi - Supervisionado",
+      "É uma mistura dos dois. ",
+      "Assume que, junto com o conjunto de treinamento, há um segundo conjunto com dados não rotulados que também será utilizado no treinamento  ",
+      "É usado quando temos um conjunto de dados onde apenas algumas das amostras são rotuladas, ou seja, possuem as classes atribuídas, enquanto a maioria das amostras não possui rótulos."
+    ]
+  },
+  {
+    "id": "slide02-44",
+    "source": "slide02.odp",
+    "original": 44,
+    "section": "Machine Learning",
+    "title": "Aprendizado Semi - Supervisionado",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 7.701,
+        "y": 3.146,
+        "w": 16.709,
+        "h": 14.384,
+        "url": "/__l5e/assets-v1/47294f87-747f-4dfe-aeee-d69b078519dd/6cc4fff980d4612cfe92.png",
+        "ratio": 1.1620626151012892
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Semi - Supervisionado"
+    ]
+  },
+  {
+    "id": "slide02-45",
+    "source": "slide02.odp",
+    "original": 45,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Label Propagation",
+      "Mixture Models",
+      "Co-training",
+      "Self-training",
+      "Utilização",
+      "Rotular amostras não rotuladas"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Label Propagation",
+      "Mixture Models",
+      "Co-training",
+      "Self-training",
+      "Utilização",
+      "Rotular amostras não rotuladas"
+    ]
+  },
+  {
+    "id": "slide02-46",
+    "source": "slide02.odp",
+    "original": 46,
+    "section": "Machine Learning",
+    "title": "Aprendizado Por Reforço",
+    "paragraphs": [
+      "Usado nos casos em o problema não está relacionado a dados, mas possui um ambiente virtual ou real para interação, como um mundo de videogame ou uma cidade para carros autônomos.",
+      "O agente aprende por tentativa e erro ao atuar sobre um ambiente"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Por Reforço",
+      "Usado nos casos em o problema não está relacionado a dados, mas possui um ambiente virtual ou real para interação, como um mundo de videogame ou uma cidade para carros autônomos.",
+      "O agente aprende por tentativa e erro ao atuar sobre um ambiente"
+    ]
+  },
+  {
+    "id": "slide02-47",
+    "source": "slide02.odp",
+    "original": 47,
+    "section": "Machine Learning",
+    "title": "Aprendizado Por Reforço",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 1.667,
+        "y": 2.818,
+        "w": 20.283,
+        "h": 14.488,
+        "url": "/__l5e/assets-v1/42308539-4599-4ca3-9552-a36abb4fd9ec/5775bc8ae72adcebbce7.png",
+        "ratio": 1.4
+      },
+      {
+        "x": 22.745,
+        "y": 4.564,
+        "w": 9.259,
+        "h": 9.259,
+        "url": "/__l5e/assets-v1/4f718ec8-d711-4fcf-9613-33f79a728b0b/96aca13d10c70febc7a4.png",
+        "ratio": 1.0
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Aprendizado Por Reforço"
+    ]
+  },
+  {
+    "id": "slide02-48",
+    "source": "slide02.odp",
+    "original": 48,
+    "section": "Machine Learning",
+    "title": "Aprendizado Por Reforço",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.101,
+        "y": 0.0,
+        "w": 33.866,
+        "h": 19.049,
+        "url": "/__l5e/assets-v1/abeb9237-ae4d-4894-82bc-242d42e40f6c/78bbdc1affb0526abdbb.jpg",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.youtube.com/watch?v=V1eYniJ0Rnk",
+        "label": "Vídeo externo"
+      }
+    ],
+    "sourceText": [
+      "Aprendizado Por Reforço"
+    ]
+  },
+  {
+    "id": "slide02-49",
+    "source": "slide02.odp",
+    "original": 49,
+    "section": "Machine Learning",
+    "title": "Aprendizado Por Reforço",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 33.866,
+        "h": 19.049,
+        "url": "/__l5e/assets-v1/35849662-298c-470c-af0a-993b7504817f/ebd267156291ed246438.jpg",
+        "ratio": 1.7777777777777777
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.youtube.com/watch?v=qv6UVOQ0F44",
+        "label": "Vídeo externo"
+      }
+    ],
+    "sourceText": [
+      "Aprendizado Por Reforço"
+    ]
+  },
+  {
+    "id": "slide02-50",
+    "source": "slide02.odp",
+    "original": 50,
+    "section": "Machine Learning",
+    "title": "Algoritmos e Utilização",
+    "paragraphs": [
+      "Algoritmos",
+      "Q-Learning",
+      "SARSA",
+      "DQN",
+      "A3C",
+      "Genetic algorithm",
+      "Utilização",
+      "Carros autônomos",
+      "Jogos",
+      "Automatizando a negociação",
+      "Gerenciamento de recursos corporativos"
+    ],
+    "images": [],
+    "links": [],
+    "sourceText": [
+      "Algoritmos e Utilização",
+      "Algoritmos",
+      "Q-Learning",
+      "SARSA",
+      "DQN",
+      "A3C",
+      "Genetic algorithm",
+      "Utilização",
+      "Carros autônomos",
+      "Jogos",
+      "Automatizando a negociação",
+      "Gerenciamento de recursos corporativos"
+    ]
+  },
+  {
+    "id": "slide02-51",
+    "source": "slide02.odp",
+    "original": 51,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 5.082,
+        "y": 3.281,
+        "w": 11.636,
+        "h": 13.127,
+        "url": "/__l5e/assets-v1/48987e7c-68ed-466f-b4d6-b27a6e4c9d45/88203ee9dbdb0346fdac.png",
+        "ratio": 0.8649193548387096
+      },
+      {
+        "x": 19.894,
+        "y": 6.044,
+        "w": 6.034,
+        "h": 6.96,
+        "url": "/__l5e/assets-v1/858cfbfb-6b66-45fc-ae86-8dd0d2749b10/cae8809f82827ae81d3e.png",
+        "ratio": 0.8669201520912547
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-52",
+    "source": "slide02.odp",
+    "original": 52,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 3.704,
+        "y": 3.007,
+        "w": 26.457,
+        "h": 14.11,
+        "url": "/__l5e/assets-v1/87f914f0-0a5c-448c-a817-c20024ef6633/4db62edf00c0cdecc083.png",
+        "ratio": 1.8
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-53",
+    "source": "slide02.odp",
+    "original": 53,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 3.863,
+        "y": 2.765,
+        "w": 25.399,
+        "h": 14.196,
+        "url": "/__l5e/assets-v1/d3b431dd-4c47-4efd-bf62-19b3fde9446e/c6dd7444a4863be541ff.png",
+        "ratio": 1.7877094972067038
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-54",
+    "source": "slide02.odp",
+    "original": 54,
+    "section": "Machine Learning",
+    "title": "Falhas na experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 0.993,
+        "y": 2.744,
+        "w": 30.82,
+        "h": 14.636,
+        "url": "/__l5e/assets-v1/e49526f4-c8c2-4b70-b758-454649fef30c/902aef03a0f4f02c9626.png",
+        "ratio": 2.1048824593128392
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Falhas na experiência "
+    ]
+  },
+  {
+    "id": "slide02-55",
+    "source": "slide02.odp",
+    "original": 55,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 1.255,
+        "y": 2.717,
+        "w": 29.857,
+        "h": 15.035,
+        "url": "/__l5e/assets-v1/f42c61a6-d2f2-4318-89d1-b05e92a7539f/c9a12824b3fccd34e9a6.png",
+        "ratio": 1.9859154929577465
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-56",
+    "source": "slide02.odp",
+    "original": 56,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 4.233,
+        "y": 4.253,
+        "w": 25.113,
+        "h": 12.171,
+        "url": "/__l5e/assets-v1/a58bd052-64c2-4c65-b3c3-a81ffd56cc7b/47301291a17c22bd32dd.gif",
+        "ratio": 2.0632911392405062
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-57",
+    "source": "slide02.odp",
+    "original": 57,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 23.31,
+        "y": 2.372,
+        "w": 9.392,
+        "h": 13.989,
+        "url": "/__l5e/assets-v1/c497d123-1497-4c11-a380-ad2dec1c0169/f9c6c424c26481f6188b.png",
+        "ratio": 0.6704545454545454
+      },
+      {
+        "x": 0.423,
+        "y": 3.347,
+        "w": 23.203,
+        "h": 13.175,
+        "url": "/__l5e/assets-v1/f82a6218-11a1-4f13-b4ba-e1ac4df9eca2/d9ed732ab6eec5b33a62.png",
+        "ratio": 1.7610441767068272
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência "
+    ]
+  },
+  {
+    "id": "slide02-58",
+    "source": "slide02.odp",
+    "original": 58,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência  - LIME ",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 3.961,
+        "y": 3.232,
+        "w": 26.147,
+        "h": 14.212,
+        "url": "/__l5e/assets-v1/945caf91-b1f3-424e-bc73-9eec80751608/62c9287a637e17f0e5a1.png",
+        "ratio": 1.8397565922920893
+      }
+    ],
+    "links": [],
+    "sourceText": [
+      "Base de Dados e Experiência  - LIME "
+    ]
+  },
+  {
+    "id": "slide02-59",
+    "source": "slide02.odp",
+    "original": 59,
+    "section": "Machine Learning",
+    "title": "Base de Dados e Experiência - LIME ",
+    "paragraphs": [
+      "https://www.slideshare.net/0xdata/explaining-blackbox-machine-learning-predictions"
+    ],
+    "images": [
+      {
+        "x": 3.625,
+        "y": 5.087,
+        "w": 25.739,
+        "h": 9.581,
+        "url": "/__l5e/assets-v1/7e79c9b8-4e38-414e-9cb8-b8b6aa49426f/8c8e6cc727a5d34192d4.png",
+        "ratio": 2.6862068965517243
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.slideshare.net/0xdata/explaining-blackbox-machine-learning-predictions",
+        "label": "https://www.slideshare.net/0xdata/explaining-blackbox-machine-learning-predictions"
+      }
+    ],
+    "sourceText": [
+      "Base de Dados e Experiência - LIME ",
+      "https://www.slideshare.net/0xdata/explaining-blackbox-machine-learning-predictions"
+    ]
+  },
+  {
+    "id": "slide02-60",
+    "source": "slide02.odp",
+    "original": 60,
+    "section": "Machine Learning",
+    "title": "Links Úteis",
+    "paragraphs": [],
+    "images": [
+      {
+        "x": 9.0,
+        "y": 6.0,
+        "w": 14.813,
+        "h": 7.421,
+        "url": "/__l5e/assets-v1/12bb99c1-1d1d-4d46-a361-4e8cd1e2fb45/6c51beced0d0e7a7335b.png",
+        "ratio": 1.9964285714285714
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.kaggle.com/",
+        "label": "Link original"
+      }
+    ],
+    "sourceText": [
+      "Links Úteis"
+    ]
+  }
+]

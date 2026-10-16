@@ -1,0 +1,458 @@
+{
+  "slides03-1": {
+    "title": "Pensem na rotina de vocês...",
+    "paragraphs": [
+      "Como você decidiu o melhor caminho para chegar aqui hoje?",
+      "Você ligou para um amigo? Usou um mapa de papel? Ou..."
+    ],
+    "icons": {},
+    "sourceText": [
+      "Pensem na rotina de vocês...",
+      "Como você decidiu o melhor caminho para chegar aqui hoje?",
+      "Você ligou para um amigo? Usou um mapa de",
+      "papel? Ou..."
+    ]
+  },
+  "slides03-2": {
+    "title": "...ou você usou algo assim?",
+    "paragraphs": [
+      "Provavelmente, você confiou em um sistema que analisou centenas de variáveis em tempo real.",
+      "Um sistema que processou dados de:",
+      "Posição de milhares de motoristas",
+      "Acidentes e obras na via",
+      "Condições de trânsito"
+    ],
+    "icons": {},
+    "sourceText": [
+      "...ou você usou algo assim?",
+      "Provavelmente, você confiou em um sistema que analisou centenas de variáveis em tempo real.",
+      "Um sistema que processou dados de:",
+      "Posição de milhares de motoristas",
+      "Acidentes e obras na via",
+      "Condições de trânsito"
+    ]
+  },
+  "slides03-3": {
+    "title": "O Waze é um Sistema de Apoio à Decisão perfeito!",
+    "paragraphs": [
+      "1 Coleta Dados: Posição de milhares de motoristas, acidentes, obras.",
+      "2 Usa um Modelo: Um algoritmo que calcula a rota mais rápida.",
+      "3 Tem uma Interface Clara: O mapa no seu celular.",
+      "Ele te APOIA na DECISÃO de qual caminho seguir."
+    ],
+    "icons": {},
+    "sourceText": [
+      "O Waze é um Sistema de Apoio à Decisão perfeito!",
+      "1 Coleta Dados: Posição de milhares de motoristas, acidentes, obras.",
+      "2 Usa um Modelo: Um algoritmo que calcula a rota mais rápida.",
+      "3 Tem uma Interface Clara: O mapa no seu celular.",
+      "Ele te APOIA na DECISÃO de qual caminho",
+      "seguir."
+    ]
+  },
+  "slides03-4": {
+    "title": "Nosso Objetivo",
+    "paragraphs": [
+      "Aprender a construir o \"Waze\" para os Negócios",
+      "Um sistema que ajude uma empresa a navegar no \"trânsito\" do mercado, evitando \"congestionamentos\" (problemas) e pegando \"atalhos\" (oportunidades)."
+    ],
+    "icons": {},
+    "sourceText": [
+      "Nosso Objetivo",
+      "Aprender a construir o \"Waze\" para os Negócios",
+      "Um sistema que ajude uma empresa a navegar no \"trânsito\" do mercado, evitando",
+      "\"congestionamentos\" (problemas) e pegando \"atalhos\" (oportunidades)."
+    ]
+  },
+  "slides03-5": {
+    "title": "O que é, afinal, uma decisão?",
+    "paragraphs": [],
+    "icons": {},
+    "sourceText": [
+      "O que é, afinal, uma decisão?"
+    ]
+  },
+  "slides03-6": {
+    "title": "Decidir é...",
+    "paragraphs": [
+      "...um processo de escolha entre duas ou mais alternativas para alcançar um objetivo desejado.",
+      "Exemplo Simples:",
+      "Objetivo: Almoçar.",
+      "Alternativas: Restaurante A, Restaurante B, trazer marmita.",
+      "Decisão: Escolher uma das três opções."
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/d0699b29-41fe-414f-aaac-593bdd99b765/icon-27ec45607cc78fc72f7f.png",
+      "": "/__l5e/assets-v1/a42fdf0e-80f0-4196-9bcd-c0852057ffd3/icon-9d6f56d0e4f169c95ad0.png",
+      "": "/__l5e/assets-v1/bf05ea97-b33d-4056-843e-2700a1ba2668/icon-3188d32c34eeb4c6100c.png"
+    },
+    "sourceText": [
+      "Decidir é...",
+      "...um processo de escolha entre duas ou mais alternativas para alcançar um objetivo desejado.",
+      "Exemplo Simples:",
+      "Objetivo: Almoçar.",
+      "Alternativas: Restaurante A, Restaurante B,",
+      "trazer marmita.",
+      "Decisão: Escolher uma das três opções."
+    ]
+  },
+  "slides03-7": {
+    "title": "A Pirâmide de Decisões Organizacionais",
+    "paragraphs": [
+      "Assim como em um jogo, existem decisões que definem a estratégia geral e outras que definem a jogada do momento.",
+      " Estratégico",
+      "Longo prazo, alta incerteza, alta gestão",
+      " Tático",
+      "Médio prazo, alocação de recursos, gerentes",
+      " Operacional",
+      "Curto prazo, repetitivas, supervisores"
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/cf34e86f-46b6-465b-96ed-6478dabc85b6/icon-7e4f37a1f673c850540a.png",
+      "": "/__l5e/assets-v1/75404ba3-c72d-48c7-b3f1-7266bbaca9ca/icon-bd063a179ac9089d4e5c.png",
+      "": "/__l5e/assets-v1/36661412-88ea-4647-8d85-6c1bcf1a2ca5/icon-064e137e4644262c720f.png"
+    },
+    "sourceText": [
+      "A Pirâmide de Decisões Organizacionais",
+      "Assim como em um jogo, existem decisões que definem a estratégia geral e outras que definem a jogada do momento.",
+      "",
+      "Estratégico",
+      "Longo prazo, alta incerteza, alta gestão",
+      "",
+      "Tático",
+      "Médio prazo, alocação de recursos, gerentes",
+      "",
+      "Operacional",
+      "Curto prazo, repetitivas, supervisores"
+    ]
+  },
+  "slides03-8": {
+    "title": "Estratégicas: Decidindo o Destino do Navio",
+    "paragraphs": [
+      "Características",
+      "Longo prazo, alta incerteza, definem o rumo da empresa.",
+      "Quem toma",
+      "Alta gestão (CEOs, diretores).",
+      " \"O que NÓS DEVERÍAMOS estar fazendo?\"",
+      ""
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/0faa805b-6d0e-4950-a064-d1e4a795e46d/icon-94331b27c21b023eef63.png",
+      "": "/__l5e/assets-v1/dc12e195-9fff-4811-b8df-48b10f20f8bf/icon-772910cf412e674bbacd.png",
+      "": "/__l5e/assets-v1/305c913d-4461-4010-9f1a-36a163fc315a/icon-a8862613e20181d55264.png",
+      "": "/__l5e/assets-v1/eb211bb6-3462-4ec7-b36d-1ec5ab14835b/icon-9687269b45e25fc52bbd.png"
+    },
+    "sourceText": [
+      "Estratégicas: Decidindo o Destino do Navio",
+      "Características",
+      "Longo prazo, alta incerteza, definem o rumo da empresa.",
+      "Quem toma",
+      "Alta gestão (CEOs, diretores).",
+      " \"O que NÓS DEVERÍAMOS estar fazendo?\"",
+      ""
+    ]
+  },
+  "slides03-9": {
+    "title": "Exemplo Estratégico",
+    "paragraphs": [
+      "Cenário:",
+      "A Netflix, uma empresa de streaming de filmes e séries.",
+      "Decisão Estratégica:",
+      "\"Devemos entrar no mercado de games para competir com Xbox e PlayStation?\"",
+      "Impacto:",
+      "Define o futuro da empresa para os próximos 5-10 anos."
+    ],
+    "icons": {},
+    "sourceText": [
+      "Exemplo Estratégico",
+      "Cenário:",
+      "A Netflix, uma empresa de streaming de filmes e séries.",
+      "Decisão Estratégica:",
+      "\"Devemos entrar no mercado de games para competir com Xbox e PlayStation?\"",
+      "Impacto:",
+      "Define o futuro da empresa para os próximos 5-10 anos."
+    ]
+  },
+  "slides03-10": {
+    "title": "Táticas: Planejando a Rota da Viagem",
+    "paragraphs": [
+      "Médio prazo: Decisões que afetam os próximos meses ou semestres. Alocação de recursos: Como distribuir orçamento, pessoal e tempo para implementar a estratégia. Implementação da estratégia: Transformar os planos estratégicos em ações concretas. Quem toma: Gerentes de área (Marketing, Finanças, RH).",
+      "Pergunta-chave: \"Como NÓS FAREMOS o que foi definido?\""
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/60e12a7e-2aaf-4f45-be8d-6b2975ebd48e/icon-7efdaea7dd7efa8d101a.png",
+      "": "/__l5e/assets-v1/62670f64-5d0e-4ba5-99b3-b08a593dd7ea/icon-539744591f3cf472bead.png",
+      "": "/__l5e/assets-v1/68f56f08-e495-44d8-aba6-2947b9f19a12/icon-35a638ca8a357559aeb4.png",
+      "": "/__l5e/assets-v1/bd42c722-08b5-4205-a6a6-9f9217f106eb/icon-8aaf751fd98b25020eae.png"
+    },
+    "sourceText": [
+      "Táticas: Planejando a Rota da Viagem",
+      "Médio prazo: Decisões que afetam os próximos",
+      "meses ou semestres. Alocação de recursos: Como distribuir",
+      "orçamento, pessoal e tempo para implementar a estratégia. Implementação da estratégia: Transformar os",
+      "planos estratégicos em ações concretas. Quem toma: Gerentes de área (Marketing,",
+      "Finanças, RH).",
+      "Pergunta-chave: \"Como NÓS FAREMOS o",
+      "que foi definido?\""
+    ]
+  },
+  "slides03-11": {
+    "title": "Exemplo Tático",
+    "paragraphs": [
+      "Cenário:",
+      "A Netflix decidiu lançar a série \"Stranger Things\".",
+      "Decisão Tática:",
+      "\"Qual será o orçamento de marketing para a nova temporada? Onde vamos anunciar: YouTube, TikTok, comerciais de TV?\"",
+      "Impacto:",
+      "Afeta o sucesso daquele projeto específico no próximo semestre."
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/eaa6ecfa-2b80-4289-aa87-186d5e6bbdd7/icon-53fbd763d0fdd1d24234.png",
+      "": "/__l5e/assets-v1/b7356646-8383-4c64-add6-e1e4202f5147/icon-b35e0128786e6c699e3f.png"
+    },
+    "sourceText": [
+      "Exemplo Tático",
+      "Cenário:",
+      "A Netflix decidiu lançar a série \"Stranger Things\".",
+      "Decisão Tática:",
+      "\"Qual será o orçamento de marketing para a nova",
+      "temporada? Onde vamos anunciar: YouTube, TikTok, comerciais de TV?\"",
+      "Impacto:",
+      "Afeta o sucesso daquele projeto específico no próximo semestre."
+    ]
+  },
+  "slides03-12": {
+    "title": "Operacionais: Ajustando as Velas do Barco",
+    "paragraphs": [
+      "Características",
+      "Curto prazo, repetitivas, seguem regras bem definidas.",
+      "Quem toma",
+      "Supervisores, funcionários da linha de frente, sistemas automatizados.",
+      "Frequência",
+      "Diárias ou contínuas, muitas vezes automatizadas por sistemas.",
+      " \"Como estamos EXECUTANDO as tarefas",
+      "do dia a dia?\" "
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/87671bad-ab37-41fa-9db5-4636b42f83ec/icon-22f2407bc71239eaef94.png",
+      "": "/__l5e/assets-v1/e17a17c7-129b-45b9-baa4-f971366fb4e8/icon-dc52f87c746a1253cf22.png",
+      "": "/__l5e/assets-v1/6974df91-7348-47f1-82c2-aadee2baedc1/icon-3c3e0dcb1b15bfa323cc.png",
+      "": "/__l5e/assets-v1/f4a742b0-a1f4-4c86-8215-36fdef9bae7e/icon-79c0c35a83ab20953330.png",
+      "": "/__l5e/assets-v1/e53199a5-ab4a-4f7e-b836-07e34bbe0431/icon-0c889e0c3fbcc4281a1c.png"
+    },
+    "sourceText": [
+      "Operacionais: Ajustando as Velas do Barco",
+      "Características",
+      "Curto prazo, repetitivas, seguem regras bem definidas.",
+      "Quem toma",
+      "Supervisores, funcionários da linha de frente, sistemas automatizados.",
+      "Frequência",
+      "Diárias ou contínuas, muitas vezes automatizadas por sistemas.",
+      " \"Como estamos EXECUTANDO as tarefas",
+      "do dia a dia?\" "
+    ]
+  },
+  "slides03-13": {
+    "title": "Exemplo Operacional",
+    "paragraphs": [
+      "Cenário:",
+      "Um usuário acessa a página inicial da Netflix.",
+      "Decisão Operacional:",
+      "\"Qual filme ou série vamos recomendar para ESTE usuário, neste exato momento, com base no seu histórico?\"",
+      "(muitas vezes automatizada por algoritmos)",
+      "Impacto:",
+      "Acontece milhares de vezes por segundo, otimizando a experiência individual de cada usuário."
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/7089650b-b385-48e7-9c77-6c66e248a46c/icon-fd16bd2f013cc11a64e1.png",
+      "": "/__l5e/assets-v1/8db35096-3cf3-4f55-8805-6ab8d2aa6bb4/icon-089281241d1223eead64.png",
+      "": "/__l5e/assets-v1/10e9b88a-7927-4e11-858b-9a724a699b05/icon-54cf1031d00bea50b59d.png"
+    },
+    "sourceText": [
+      "Exemplo Operacional",
+      "Cenário:",
+      "Um usuário acessa a página inicial da Netflix.",
+      "Decisão Operacional:",
+      "\"Qual filme ou série vamos recomendar para",
+      "ESTE usuário, neste exato momento, com base no seu histórico?\"",
+      "(muitas vezes automatizada por algoritmos)",
+      "Impacto:",
+      "Acontece milhares de vezes por segundo, otimizando a experiência individual de cada usuário."
+    ]
+  },
+  "slides03-14": {
+    "title": "O Dilúvio de Dados",
+    "paragraphs": [
+      "Para cada decisão, temos mais dados, relatórios, e-mails, notícias e opiniões do que conseguimos processar.",
+      "Fontes de sobrecarga:",
+      " Relatórios e dashboards em múltiplas plataformas",
+      " Centenas de e-mails e mensagens diárias",
+      " Notícias e atualizações do mercado em tempo real",
+      " Opiniões e feedback de múltiplos stakeholders"
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/66ece00a-329f-415a-9275-bbba3580e82f/icon-68ab8dbf94be1b2537dc.png",
+      "": "/__l5e/assets-v1/3db529dd-5a28-479d-8696-767f772d8bab/icon-aaffffb044da99a7dd10.png",
+      "": "/__l5e/assets-v1/e264be9e-a127-447e-95a2-f75ba3f1e9d4/icon-7cb7d59238bc78017576.png",
+      "": "/__l5e/assets-v1/cda4528a-3783-4aa7-a696-7b56d029691d/icon-92c48afc5f46fb9d83d3.png"
+    },
+    "sourceText": [
+      "O Dilúvio de Dados",
+      "Para cada decisão, temos mais dados, relatórios, e-mails, notícias e opiniões do que conseguimos processar.",
+      "Fontes de sobrecarga:",
+      " Relatórios e dashboards em múltiplas plataformas",
+      " Centenas de e-mails e mensagens diárias",
+      " Notícias e atualizações do mercado em tempo real",
+      " Opiniões e feedback de múltiplos stakeholders"
+    ]
+  },
+  "slides03-15": {
+    "title": "O Risco de Saber Demais",
+    "paragraphs": [
+      "Definição:",
+      "A \"Paralisia por Análise\" ocorre quando o excesso de informação e alternativas nos impede de tomar uma decisão. Ficamos presos, analisando sem parar.",
+      "Procrastinação constante de decisões importantes",
+      "Busca interminável por mais dados e informações",
+      "Medo excessivo de cometer erros",
+      "Sobrecarga cognitiva que leva à inação"
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/857595a4-db43-4461-81d2-fec668de5f0b/icon-cabb6e0e38acd8fe7b91.png"
+    },
+    "sourceText": [
+      "O Risco de Saber Demais",
+      "Definição:",
+      "A \"Paralisia por Análise\" ocorre quando o excesso de informação e alternativas nos impede de tomar uma decisão. Ficamos presos, analisando sem parar.",
+      "Procrastinação constante de decisões importantes",
+      "Busca interminável por mais dados e informações",
+      "Medo excessivo de cometer erros",
+      "Sobrecarga cognitiva que leva à inação"
+    ]
+  },
+  "slides03-16": {
+    "title": "O \"Paradoxo da Netflix\"",
+    "paragraphs": [
+      "Cenário:",
+      "Você abre a Netflix para ver um filme. O sistema te dá 5.000 opções.",
+      "Resultado:",
+      "Você passa 40 minutos navegando pelo catálogo, fica cansado com tantas opções e acaba não assistindo nada (ou assiste ao mesmo de sempre)."
+    ],
+    "icons": {},
+    "sourceText": [
+      "O \"Paradoxo da Netflix\"",
+      "Cenário:",
+      "Você abre a Netflix para ver um filme. O sistema te dá 5.000 opções.",
+      "Resultado:",
+      "Você passa 40 minutos navegando pelo catálogo, fica cansado com tantas opções e acaba não assistindo nada (ou assiste ao mesmo de sempre)."
+    ]
+  },
+  "slides03-17": {
+    "title": "O que é um Sistema de Apoio à Decisão (SAD)?",
+    "paragraphs": [
+      "Definição:",
+      "\"Sistemas interativos baseados em computador que ajudam os tomadores de decisão a usar dados e modelos para resolver problemas complexos.\"",
+      "Fornece suporte estruturado para processos de tomada de decisão",
+      "Combina dados e modelos analíticos em uma interface amigável",
+      "Permite simulações de cenários \"E se...?\" para testar alternativas",
+      "Aumenta a eficiência e qualidade das decisões organizacionais"
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/8c976a9a-f9cd-4d60-9007-4fe76eb5c54c/icon-25523ac63a5b95315bf5.png"
+    },
+    "sourceText": [
+      "O que é um Sistema de Apoio à Decisão (SAD)?",
+      "Definição:",
+      "\"Sistemas interativos baseados em computador que ajudam os tomadores de decisão a usar dados e modelos para resolver problemas complexos.\"",
+      "Fornece suporte estruturado para processos de",
+      "tomada de decisão",
+      "Combina dados e modelos analíticos em uma",
+      "interface amigável",
+      "Permite simulações de cenários \"E se...?\" para testar",
+      "alternativas",
+      "Aumenta a eficiência e qualidade das decisões",
+      "organizacionais"
+    ]
+  },
+  "slides03-18": {
+    "title": "Os Ingredientes de um SAD",
+    "paragraphs": [
+      " Interativos",
+      "Você pode \"conversar\" com o sistema, fazer perguntas, simular cenários (\"E se...?\") e obter respostas em tempo real.",
+      " Usam Dados",
+      "São alimentados por dados internos (vendas, estoque) e externos (mercado, concorrentes) para fornecer uma visão completa.",
+      " Usam Modelos",
+      "Contêm a \"inteligência\" (modelos financeiros, estatísticos, de otimização) que processa os dados e gera insights.",
+      " Resolvem Problemas Complexos",
+      "São ideais para as decisões Táticas e Estratégicas, que não têm uma resposta óbvia e exigem análise aprofundada."
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/68e80f9b-c34f-4bb6-b06e-2987c41fd166/icon-bbc23206cd00d6ea58bc.png",
+      "": "/__l5e/assets-v1/596c11c4-ea12-45d8-b687-1a4757bb08d9/icon-8a24918f9f8e702eba9e.png",
+      "": "/__l5e/assets-v1/a0fc0775-1f32-4925-90c1-4160b669f2de/icon-2ef11251e6e9bedd1fa0.png",
+      "": "/__l5e/assets-v1/886d5366-15b6-4cda-b56d-28d4addd1502/icon-19240b506903836fb635.png"
+    },
+    "sourceText": [
+      "Os Ingredientes de um SAD",
+      "",
+      "Interativos",
+      "Você pode \"conversar\" com o sistema, fazer perguntas, simular cenários (\"E se...?\") e obter respostas em tempo real.",
+      "",
+      "Usam Dados",
+      "São alimentados por dados internos (vendas, estoque) e externos (mercado, concorrentes) para fornecer uma visão",
+      "completa.",
+      "",
+      "Usam Modelos",
+      "Contêm a \"inteligência\" (modelos financeiros, estatísticos, de",
+      "otimização) que processa os dados e gera insights.",
+      "",
+      "Resolvem Problemas Complexos",
+      "São ideais para as decisões Táticas e Estratégicas, que não",
+      "têm uma resposta óbvia e exigem análise aprofundada."
+    ]
+  },
+  "slides03-19": {
+    "title": "Ampliar, Não Substituir",
+    "paragraphs": [
+      "O objetivo de um SAD não é tomar a decisão por você. É organizar a complexidade e apresentar os melhores cenários para que VOCÊ, o humano, tome a decisão final com mais confiança e embasamento.",
+      "A Metáfora do Piloto",
+      "Como um piloto em uma cabine moderna, você está no controle, mas o painel à sua frente (o SAD) lhe dá todas as informações cruciais (altitude, velocidade, rota) para tomar decisões melhores e mais seguras."
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/30c99ea3-860d-4e3b-817e-939e0a9995ff/icon-547a801c0c20fddd0504.png"
+    },
+    "sourceText": [
+      "Ampliar, Não Substituir",
+      "O objetivo de um SAD não é tomar a decisão por você. É organizar a complexidade e apresentar os melhores cenários para que VOCÊ, o humano, tome a decisão final com mais confiança e embasamento.",
+      "A Metáfora do Piloto",
+      "Como um piloto em uma cabine moderna, você está no controle, mas o painel à sua frente (o SAD) lhe dá todas as informações cruciais (altitude, velocidade, rota) para tomar decisões melhores e mais seguras."
+    ]
+  },
+  "slides03-20": {
+    "title": "O SAD te dá a melhor cabine, não o piloto automático",
+    "paragraphs": [
+      "Ele te transforma em um piloto mais capaz, com superpoderes para enxergar através da neblina dos dados.",
+      "Painéis intuitivos que mostram os indicadores mais importantes",
+      "Visibilidade clara mesmo em ambientes complexos e incertos",
+      "Amplia sua capacidade cognitiva, mas mantém você no controle",
+      "Permite simular rotas e cenários antes de tomar decisões"
+    ],
+    "icons": {
+      "": "/__l5e/assets-v1/ff170e9c-5ebc-4aa3-8d98-6d29c0434eb0/icon-853331b74d8a73dcd50b.png",
+      "": "/__l5e/assets-v1/0116c4dc-df2a-4687-92aa-bbf7a98f47cd/icon-7fd342cb20b03e793e1c.png",
+      "": "/__l5e/assets-v1/18371d5e-e12b-46bd-88fe-91507278b8dd/icon-8f27d1748a49d7b9d14e.png",
+      "": "/__l5e/assets-v1/ede15f97-7f9d-4969-a6d6-c772b3d1c086/icon-80dc9644d13aeca1a46f.png"
+    },
+    "sourceText": [
+      "O SAD te dá a melhor cabine, não o piloto automático",
+      "Ele te transforma em um piloto mais capaz, com superpoderes para enxergar através da neblina dos dados.",
+      "Painéis intuitivos que mostram os indicadores mais",
+      "importantes",
+      "Visibilidade clara mesmo em ambientes complexos e",
+      "incertos",
+      "Amplia sua capacidade cognitiva, mas mantém você",
+      "no controle",
+      "Permite simular rotas e cenários antes de tomar",
+      "decisões"
+    ]
+  }
+}
